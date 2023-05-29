@@ -1,6 +1,6 @@
 /*     */ package data.scripts;
 /*     */ 
-import bge.data.scripts.world.BGEGen;
+import data.scripts.world.SVCGen;
 import com.fs.starfarer.api.BaseModPlugin;
 import com.fs.starfarer.api.Global;
 /*     */ 
@@ -13,10 +13,10 @@ import com.fs.starfarer.api.Global;
 /*     */ 
 /*     */ 
 /*     */ 
-/*     */ public class BGEModPlugin
+/*     */ public class SVCModPlugin
 /*     */   extends BaseModPlugin
 /*     */ {
-/*     */   private static void initBGE()
+/*     */   private static void initSVC()
 /*     */   {
 /*     */     try
 /*     */     {
@@ -26,7 +26,7 @@ import com.fs.starfarer.api.Global;
 /*     */     catch (ClassNotFoundException ex)
 /*     */     {
 /*     */ 
-/*  41 */       new BGEGen().generate(Global.getSector());
+/*  41 */       new SVCGen().generate(Global.getSector());
 /*     */     }
 /*     */   }
 /*     */   

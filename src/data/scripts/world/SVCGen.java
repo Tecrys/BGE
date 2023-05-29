@@ -1,4 +1,4 @@
-/*    */ package bge.data.scripts.world;
+/*    */ package data.scripts.world;
 /*    */ 
 /*    */ import com.fs.starfarer.api.campaign.FactionAPI;
 /*    */ import com.fs.starfarer.api.campaign.SectorAPI;
@@ -7,7 +7,7 @@
 /*    */ 
 /*    */ 
 /*    */ 
-/*    */ public class BGEGen
+/*    */ public class SVCGen
 /*    */   implements SectorGeneratorPlugin
 /*    */ {
 /*    */   public void generate(SectorAPI sector)
@@ -18,7 +18,7 @@
 /*    */ 
 /*    */   public static void initFactionRelationships(SectorAPI sector)
 /*    */   {
-/* 21 */     FactionAPI bge = sector.getFaction("BGE");
+/* 21 */     FactionAPI bge = sector.getFaction("SVC");
 /* 22 */     FactionAPI player = sector.getFaction("player");
 /* 23 */     FactionAPI hegemony = sector.getFaction("hegemony");
 /* 24 */     FactionAPI tritachyon = sector.getFaction("tritachyon");
