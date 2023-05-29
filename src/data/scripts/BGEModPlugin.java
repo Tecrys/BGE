@@ -1,4 +1,4 @@
-/*     */ package bge.data.scripts;
+/*     */ package data.scripts;
 /*     */ 
 import bge.data.scripts.world.BGEGen;
 import com.fs.starfarer.api.BaseModPlugin;
