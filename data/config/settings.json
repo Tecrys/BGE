@@ -1,0 +1,10 @@
+{
+	"plugins":{
+		#"AdrenalineToggleTracker":"data.scripts.plugins.AdrenalineToggleTracker",
+		#"ProtectionTracker":"data.scripts.plugins.ProtectionTracker",
+		"BloodEffect":"data.scripts.plugins.BloodEffect",
+		#"ForceShieldDisablePlugin":"data.scripts.plugins.ForceShieldDisablePlugin",		
+		#"Acid":"data.scripts.plugins.Acid",				
+		
+	},
+}

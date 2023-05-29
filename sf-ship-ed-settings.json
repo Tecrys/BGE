@@ -1,0 +1,31 @@
+{
+  "UTF8_support": 0,
+  "custom_FONT": "",
+  "custom_bg_image": "",
+  "data_dir": "C:/Games/Starsector08a/mods/BGE/data/hulls/",
+  "data_font_size": 10,
+  "fluxmod_limit_override": 0,
+  "font_size": 14,
+  "fps_limit": 60,
+  "hide_vanilla_data": 0,
+  "images_dir": "C:/Games/Starsector08a/mods/BGE/graphics/ships/",
+  "localization_file": "",
+  "mod_dirs": [
+    "C:\\Games\\Starsector\\mods\\BGEAIModplugin/",
+    "C:\\Games\\Starsector\\mods\\Vacuum/",
+    "C:\\Games\\Starsector\\mods\\Vacuum/",
+    "C:\\Games\\Starsector08a\\mods\\BGE/",
+    "C:\\Games\\Starsector08a\\mods\\BGE/"
+  ],
+  "performance_mode": 0,
+  "scale_help_UI": 1,
+  "scale_help_UI_scale_level": 0.9,
+  "starsector_base_dir": "C:\\Games\\Starsector/",
+  "variant_dir": "C:/Games/Starsector08a/mods/BGE/data/variants/",
+  "weapon_dir": "C:/Games/Starsector08a/mods/BGE/data/weapons/",
+  "weapon_images_dir": "C:\\Games\\Starsector/",
+  "window_size": [
+    1024,
+    768
+  ]
+}

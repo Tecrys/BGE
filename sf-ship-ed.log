@@ -1,0 +1,2151 @@
+11 May 2017 23:34:26 :Loading localization file
+11 May 2017 23:34:27 : Enum  HIGH_TECH  (ship.engine.style)
+11 May 2017 23:34:27 : Enum  LOW_TECH  (ship.engine.style)
+11 May 2017 23:34:27 : Enum  LOW_TECH_FIGHTER  (ship.engine.style)
+11 May 2017 23:34:27 : Enum  MIDLINE  (ship.engine.style)
+11 May 2017 23:34:27 : Enum  CUSTOM  (ship.engine.style)
+11 May 2017 23:34:27 : Enum    (ship.engine.styleId)
+11 May 2017 23:34:27 : Enum  HIGH_TECH  (ship.engine.styleId)
+11 May 2017 23:34:27 : Enum  LOW_TECH  (ship.engine.styleId)
+11 May 2017 23:34:27 : Enum  MIDLINE  (ship.engine.styleId)
+11 May 2017 23:34:27 : Enum  midlineFlare  (ship.engine.styleId)
+11 May 2017 23:34:27 : Enum  SMOKE  (ship.engine.styleSpec.type)
+11 May 2017 23:34:27 : Enum  GLOW  (ship.engine.styleSpec.type)
+11 May 2017 23:34:27 : Enum  CAPITAL_SHIP  (ship.hullSize)
+11 May 2017 23:34:27 : Enum  CRUISER  (ship.hullSize)
+11 May 2017 23:34:27 : Enum  DESTROYER  (ship.hullSize)
+11 May 2017 23:34:27 : Enum  FIGHTER  (ship.hullSize)
+11 May 2017 23:34:27 : Enum  FRIGATE  (ship.hullSize)
+11 May 2017 23:34:27 : Enum  HIGH_TECH  (ship.style)
+11 May 2017 23:34:27 : Enum  LOW_TECH  (ship.style)
+11 May 2017 23:34:27 : Enum  MIDLINE  (ship.style)
+11 May 2017 23:34:27 : Enum  HARDPOINT  (ship.weapon.mount)
+11 May 2017 23:34:27 : Enum  HIDDEN  (ship.weapon.mount)
+11 May 2017 23:34:27 : Enum  TURRET  (ship.weapon.mount)
+11 May 2017 23:34:27 : Enum  LARGE  (ship.weapon.size)
+11 May 2017 23:34:27 : Enum  MEDIUM  (ship.weapon.size)
+11 May 2017 23:34:27 : Enum  SMALL  (ship.weapon.size)
+11 May 2017 23:34:27 : Enum  BALLISTIC  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  ENERGY  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  LAUNCH_BAY  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  MISSILE  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  UNIVERSAL  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  BUILT_IN  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  SYSTEM  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  DECORATIVE  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  HYBRID  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  SYNERGY  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  COMPOSITE  (ship.weapon.type)
+11 May 2017 23:34:27 : Enum  ALTERNATING  (variant.weaponGroup.mode)
+11 May 2017 23:34:27 : Enum  LINKED  (variant.weaponGroup.mode)
+11 May 2017 23:34:27 : Enum  NONE  (ship_csv.shield type)
+11 May 2017 23:34:27 : Enum  OMNI  (ship_csv.shield type)
+11 May 2017 23:34:27 : Enum  FRONT  (ship_csv.shield type)
+11 May 2017 23:34:27 : Enum  PHASE  (ship_csv.shield type)
+11 May 2017 23:34:27 : Enum    (ship_csv.defense id)
+11 May 2017 23:34:27 : Enum  phasecloak  (ship_csv.defense id)
+11 May 2017 23:34:27 : Enum  V  (wing_csv.formation)
+11 May 2017 23:34:27 : Enum  CLAW  (wing_csv.formation)
+11 May 2017 23:34:27 : Enum  BOX  (wing_csv.formation)
+11 May 2017 23:34:27 : Enum    (wing_csv.formation)
+11 May 2017 23:34:27 : Enum  FIGHTER  (wing_csv.role)
+11 May 2017 23:34:27 : Enum  ASSAULT  (wing_csv.role)
+11 May 2017 23:34:27 : Enum  INTERCEPTOR  (wing_csv.role)
+11 May 2017 23:34:27 : Enum  BOMBER  (wing_csv.role)
+11 May 2017 23:34:27 : Enum  SUPPORT  (wing_csv.role)
+11 May 2017 23:34:27 : Enum  GLOW  (weapon.animationType)
+11 May 2017 23:34:27 : Enum  GLOW_AND_FLASH  (weapon.animationType)
+11 May 2017 23:34:27 : Enum  MUZZLE_FLASH  (weapon.animationType)
+11 May 2017 23:34:27 : Enum  NONE  (weapon.animationType)
+11 May 2017 23:34:27 : Enum  SMOKE  (weapon.animationType)
+11 May 2017 23:34:27 : Enum  ALTERNATING  (weapon.barrelMode)
+11 May 2017 23:34:27 : Enum  ALTERNATING_BURST  (weapon.barrelMode)
+11 May 2017 23:34:27 : Enum  LINKED  (weapon.barrelMode)
+11 May 2017 23:34:27 : Enum  LARGE  (weapon.size)
+11 May 2017 23:34:27 : Enum  MEDIUM  (weapon.size)
+11 May 2017 23:34:27 : Enum  SMALL  (weapon.size)
+11 May 2017 23:34:27 : Enum  beam  (weapon.specClass)
+11 May 2017 23:34:27 : Enum  projectile  (weapon.specClass)
+11 May 2017 23:34:27 : Enum  BALLISTIC  (weapon.type)
+11 May 2017 23:34:27 : Enum  ENERGY  (weapon.type)
+11 May 2017 23:34:27 : Enum  MISSILE  (weapon.type)
+11 May 2017 23:34:27 : Enum  SYSTEM  (weapon.type)
+11 May 2017 23:34:27 : Enum  DECORATIVE  (weapon.type)
+11 May 2017 23:34:27 : Enum  False  (weapon.interruptibleBurst)
+11 May 2017 23:34:27 : Enum  True  (weapon.interruptibleBurst)
+11 May 2017 23:34:27 : Enum  False  (weapon.autocharge)
+11 May 2017 23:34:27 : Enum  True  (weapon.autocharge)
+11 May 2017 23:34:27 : Enum  False  (weapon.requiresFullCharge)
+11 May 2017 23:34:27 : Enum  True  (weapon.requiresFullCharge)
+11 May 2017 23:34:27 : Enum  False  (weapon.beamFireOnlyOnFullCharge)
+11 May 2017 23:34:27 : Enum  True  (weapon.beamFireOnlyOnFullCharge)
+11 May 2017 23:34:27 : Enum  False  (weapon.convergeOnPoint)
+11 May 2017 23:34:27 : Enum  True  (weapon.convergeOnPoint)
+11 May 2017 23:34:27 : Enum  False  (weapon.darkCore)
+11 May 2017 23:34:27 : Enum  True  (weapon.darkCore)
+11 May 2017 23:34:27 : Enum  CUSTOM  (weapon.textureType)
+11 May 2017 23:34:27 : Enum  SMOOTH  (weapon.textureType)
+11 May 2017 23:34:27 : Enum  MEDIUM  (weapon.textureType)
+11 May 2017 23:34:27 : Enum  ROUGH  (weapon.textureType)
+11 May 2017 23:34:27 : Enum  CHUNKY  (weapon.textureType)
+11 May 2017 23:34:27 : Enum  ROUGH2  (weapon.textureType)
+11 May 2017 23:34:27 : Enum  WEAVE  (weapon.textureType)
+11 May 2017 23:34:27 : Enum  LASER  (weapon.textureType)
+11 May 2017 23:34:27 : Loading STARFARER-CORE Data (Vanilla)
+11 May 2017 23:34:27 : LOADED afflictor.ship
+11 May 2017 23:34:27 : LOADED apogee.ship
+11 May 2017 23:34:27 : LOADED astral.ship
+11 May 2017 23:34:27 : LOADED atlas.ship
+11 May 2017 23:34:27 : LOADED aurora.ship
+11 May 2017 23:34:27 : LOADED brawler.ship
+11 May 2017 23:34:27 : LOADED broadsword.ship
+11 May 2017 23:34:27 : LOADED buffalo.ship
+11 May 2017 23:34:27 : LOADED buffalo_mk2.ship
+11 May 2017 23:34:27 : LOADED condor.ship
+11 May 2017 23:34:27 : LOADED conquest.ship
+11 May 2017 23:34:27 : LOADED crig.ship
+11 May 2017 23:34:27 : LOADED dagger.ship
+11 May 2017 23:34:27 : LOADED dominator.ship
+11 May 2017 23:34:27 : LOADED doom.ship
+11 May 2017 23:34:27 : LOADED dram.ship
+11 May 2017 23:34:27 : LOADED drone_assault.ship
+11 May 2017 23:34:27 : LOADED drone_pd.ship
+11 May 2017 23:34:27 : LOADED drone_pd_midline.ship
+11 May 2017 23:34:27 : LOADED drone_sensor.ship
+11 May 2017 23:34:27 : LOADED drone_terminator.ship
+11 May 2017 23:34:27 : LOADED eagle.ship
+11 May 2017 23:34:27 : LOADED enforcer.ship
+11 May 2017 23:34:27 : LOADED falcon.ship
+11 May 2017 23:34:27 : LOADED gemini.ship
+11 May 2017 23:34:27 : LOADED gladius.ship
+11 May 2017 23:34:27 : LOADED hammerhead.ship
+11 May 2017 23:34:27 : LOADED hermes.ship
+11 May 2017 23:34:27 : LOADED heron.ship
+11 May 2017 23:34:27 : LOADED hound.ship
+11 May 2017 23:34:27 : LOADED hyperion.ship
+11 May 2017 23:34:27 : LOADED lasher.ship
+11 May 2017 23:34:27 : LOADED longbow.ship
+11 May 2017 23:34:27 : LOADED medusa.ship
+11 May 2017 23:34:27 : LOADED mining_drone.ship
+11 May 2017 23:34:27 : LOADED monitor.ship
+11 May 2017 23:34:27 : LOADED mule.ship
+11 May 2017 23:34:27 : LOADED odyssey.ship
+11 May 2017 23:34:27 : LOADED omen.ship
+11 May 2017 23:34:27 : LOADED onslaught.ship
+11 May 2017 23:34:27 : LOADED ox.ship
+11 May 2017 23:34:27 : LOADED paragon.ship
+11 May 2017 23:34:27 : LOADED phaeton.ship
+11 May 2017 23:34:27 : LOADED piranha.ship
+11 May 2017 23:34:27 : LOADED prometheus.ship
+11 May 2017 23:34:27 : LOADED shade.ship
+11 May 2017 23:34:27 : LOADED shuttle.ship
+11 May 2017 23:34:27 : LOADED shuttlepod.ship
+11 May 2017 23:34:27 : LOADED sunder.ship
+11 May 2017 23:34:27 : LOADED talon.ship
+11 May 2017 23:34:27 : LOADED tarsus.ship
+11 May 2017 23:34:27 : LOADED tempest.ship
+11 May 2017 23:34:27 : LOADED thunder.ship
+11 May 2017 23:34:27 : LOADED trident.ship
+11 May 2017 23:34:27 : LOADED valkyrie.ship
+11 May 2017 23:34:27 : LOADED venture.ship
+11 May 2017 23:34:27 : LOADED vigilance.ship
+11 May 2017 23:34:27 : LOADED warhound.ship
+11 May 2017 23:34:27 : LOADED warthog.ship
+11 May 2017 23:34:27 : LOADED wasp.ship
+11 May 2017 23:34:27 : LOADED wolf.ship
+11 May 2017 23:34:27 : LOADED xyphos.ship
+11 May 2017 23:34:27 : LOADED afflictor_Strike.variant
+11 May 2017 23:34:27 : LOADED apogee_Balanced.variant
+11 May 2017 23:34:27 : LOADED astral_Elite.variant
+11 May 2017 23:34:27 : LOADED atlas_Standard.variant
+11 May 2017 23:34:27 : LOADED aurora_Balanced.variant
+11 May 2017 23:34:27 : LOADED brawler_Assault.variant
+11 May 2017 23:34:27 : LOADED brawler_Elite.variant
+11 May 2017 23:34:27 : LOADED brawler_Starting.variant
+11 May 2017 23:34:27 : LOADED buffalo2_FS.variant
+11 May 2017 23:34:27 : LOADED buffalo_Standard.variant
+11 May 2017 23:34:27 : LOADED condor_FS.variant
+11 May 2017 23:34:27 : LOADED condor_Strike.variant
+11 May 2017 23:34:27 : LOADED conquest_Elite.variant
+11 May 2017 23:34:27 : LOADED crig_Standard.variant
+11 May 2017 23:34:27 : LOADED dominator_Assault.variant
+11 May 2017 23:34:27 : LOADED dominator_Outdated.variant
+11 May 2017 23:34:27 : LOADED dominator_Support.variant
+11 May 2017 23:34:27 : LOADED doom_Strike.variant
+11 May 2017 23:34:27 : LOADED dram_Light.variant
+11 May 2017 23:34:27 : LOADED eagle_Assault.variant
+11 May 2017 23:34:27 : LOADED eagle_Balanced.variant
+11 May 2017 23:34:27 : LOADED enforcer_Assault.variant
+11 May 2017 23:34:27 : LOADED enforcer_Balanced.variant
+11 May 2017 23:34:27 : LOADED enforcer_CS.variant
+11 May 2017 23:34:27 : LOADED enforcer_Elite.variant
+11 May 2017 23:34:27 : LOADED enforcer_Outdated.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED enforcer_Support.variant
+11 May 2017 23:34:27 : LOADED falcon_Attack.variant
+11 May 2017 23:34:27 : LOADED falcon_CS.variant
+11 May 2017 23:34:27 : LOADED gemini_Standard.variant
+11 May 2017 23:34:27 : LOADED hammerhead_Balanced.variant
+11 May 2017 23:34:27 : LOADED hammerhead_Elite.variant
+11 May 2017 23:34:27 : LOADED hermes_Standard.variant
+11 May 2017 23:34:27 : LOADED heron_Standard.variant
+11 May 2017 23:34:27 : LOADED hound_Assault.variant
+11 May 2017 23:34:27 : LOADED hyperion_Attack.variant
+11 May 2017 23:34:27 : LOADED hyperion_Strike.variant
+11 May 2017 23:34:27 : LOADED lasher_Assault.variant
+11 May 2017 23:34:27 : LOADED lasher_CS.variant
+11 May 2017 23:34:27 : LOADED lasher_PD.variant
+11 May 2017 23:34:27 : LOADED lasher_Standard.variant
+11 May 2017 23:34:27 : LOADED lasher_Starting.variant
+11 May 2017 23:34:27 : LOADED lasher_Strike.variant
+11 May 2017 23:34:27 : LOADED medusa_Attack.variant
+11 May 2017 23:34:27 : LOADED medusa_CS.variant
+11 May 2017 23:34:27 : LOADED medusa_PD.variant
+11 May 2017 23:34:27 : LOADED medusa_Starting.variant
+11 May 2017 23:34:27 : LOADED monitor_Escort.variant
+11 May 2017 23:34:27 : LOADED monitor_Starting.variant
+11 May 2017 23:34:27 : LOADED mule_Standard.variant
+11 May 2017 23:34:27 : LOADED mule_Starting.variant
+11 May 2017 23:34:27 : LOADED odyssey_Balanced.variant
+11 May 2017 23:34:27 : LOADED omen_PD.variant
+11 May 2017 23:34:27 : LOADED onslaught_Elite.variant
+11 May 2017 23:34:27 : LOADED onslaught_Outdated.variant
+11 May 2017 23:34:27 : LOADED onslaught_Standard.variant
+11 May 2017 23:34:27 : LOADED ox_Standard.variant
+11 May 2017 23:34:27 : LOADED paragon_Elite.variant
+11 May 2017 23:34:27 : LOADED phaeton_Standard.variant
+11 May 2017 23:34:27 : LOADED prometheus_Super.variant
+11 May 2017 23:34:27 : LOADED shade_Assault.variant
+11 May 2017 23:34:27 : LOADED shuttle_Attack.variant
+11 May 2017 23:34:27 : LOADED shuttle_PD.variant
+11 May 2017 23:34:27 : LOADED shuttle_Standard.variant
+11 May 2017 23:34:27 : LOADED sunder_Assault.variant
+11 May 2017 23:34:27 : LOADED sunder_CS.variant
+11 May 2017 23:34:27 : LOADED tarsus_Standard.variant
+11 May 2017 23:34:27 : LOADED tempest_Attack.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED tempest_Balanced.variant
+11 May 2017 23:34:27 : LOADED tempest_Starting.variant
+11 May 2017 23:34:27 : LOADED valkyrie_Elite.variant
+11 May 2017 23:34:27 : LOADED venture_Balanced.variant
+11 May 2017 23:34:27 : LOADED vigilance_AP.variant
+11 May 2017 23:34:27 : LOADED vigilance_FS.variant
+11 May 2017 23:34:27 : LOADED vigilance_Standard.variant
+11 May 2017 23:34:27 : LOADED vigilance_Starting.variant
+11 May 2017 23:34:27 : LOADED vigilance_Strike.variant
+11 May 2017 23:34:27 : LOADED warhound_Standard.variant
+11 May 2017 23:34:27 : LOADED warhound_Starting.variant
+11 May 2017 23:34:27 : LOADED wolf_Assault.variant
+11 May 2017 23:34:27 : LOADED wolf_CS.variant
+11 May 2017 23:34:27 : LOADED wolf_PD.variant
+11 May 2017 23:34:27 : LOADED wolf_Starting.variant
+11 May 2017 23:34:27 : LOADED wolf_Strike.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED broadsword_Fighter.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED dagger_Bomber.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED gladius_Fighter.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED longbow_Support.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED mining_drone_Standard.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED piranha_Bomber.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED talon_Interceptor.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED thunder_Fighter.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED trident_Bomber.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED warthog_Fighter.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED wasp_Interceptor.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED xyphos_Fighter.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED drone_assault.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED drone_pd.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED drone_pd_midline.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED drone_sensor.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED drone_terminator.variant
+11 May 2017 23:34:27 : LOADED amblaster.wpn
+11 May 2017 23:34:27 : LOADED annihilator.wpn
+11 May 2017 23:34:27 : LOADED annihilatorpod.wpn
+11 May 2017 23:34:27 : LOADED arbalest.wpn
+11 May 2017 23:34:27 : LOADED atropos.wpn
+11 May 2017 23:34:27 : LOADED atropos_single.wpn
+11 May 2017 23:34:27 : LOADED autopulse.wpn
+11 May 2017 23:34:27 : LOADED bomb.wpn
+11 May 2017 23:34:27 : LOADED chaingun.wpn
+11 May 2017 23:34:27 : LOADED clusterbomb.wpn
+11 May 2017 23:34:27 : LOADED cyclone.wpn
+11 May 2017 23:34:27 : LOADED dualflak.wpn
+11 May 2017 23:34:27 : LOADED flak.wpn
+11 May 2017 23:34:27 : LOADED fragbomb.wpn
+11 May 2017 23:34:27 : LOADED gauss.wpn
+11 May 2017 23:34:27 : LOADED gravitonbeam.wpn
+11 May 2017 23:34:27 : LOADED guardian.wpn
+11 May 2017 23:34:27 : LOADED harpoon.wpn
+11 May 2017 23:34:27 : LOADED harpoonpod.wpn
+11 May 2017 23:34:27 : LOADED harpoon_single.wpn
+11 May 2017 23:34:27 : LOADED heatseeker.wpn
+11 May 2017 23:34:27 : LOADED heavyac.wpn
+11 May 2017 23:34:27 : LOADED heavyblaster.wpn
+11 May 2017 23:34:27 : LOADED heavyburst.wpn
+11 May 2017 23:34:27 : LOADED heavymauler.wpn
+11 May 2017 23:34:27 : LOADED heavymg.wpn
+11 May 2017 23:34:27 : LOADED heavyneedler.wpn
+11 May 2017 23:34:27 : LOADED hellbore.wpn
+11 May 2017 23:34:27 : LOADED hephag.wpn
+11 May 2017 23:34:27 : LOADED hil.wpn
+11 May 2017 23:34:27 : LOADED hurricane.wpn
+11 May 2017 23:34:27 : LOADED hveldriver.wpn
+11 May 2017 23:34:27 : LOADED interdictorbeam.wpn
+11 May 2017 23:34:27 : LOADED ioncannon.wpn
+11 May 2017 23:34:27 : LOADED irpulse.wpn
+11 May 2017 23:34:27 : LOADED lightac.wpn
+11 May 2017 23:34:27 : LOADED lightag.wpn
+11 May 2017 23:34:27 : LOADED lightdualac.wpn
+11 May 2017 23:34:27 : LOADED lightdualmg.wpn
+11 May 2017 23:34:27 : LOADED lightmg.wpn
+11 May 2017 23:34:27 : LOADED lightmortar.wpn
+11 May 2017 23:34:27 : LOADED lightneedler.wpn
+11 May 2017 23:34:27 : LOADED lrpdlaser.wpn
+11 May 2017 23:34:27 : LOADED mark9.wpn
+11 May 2017 23:34:27 : LOADED miningblaster.wpn
+11 May 2017 23:34:27 : LOADED mininglaser.wpn
+11 May 2017 23:34:27 : LOADED mjolnir.wpn
+11 May 2017 23:34:27 : LOADED multineedler.wpn
+11 May 2017 23:34:27 : LOADED pdburst.wpn
+11 May 2017 23:34:27 : LOADED pdlaser.wpn
+11 May 2017 23:34:27 : LOADED phasebeam.wpn
+11 May 2017 23:34:27 : LOADED phasecl.wpn
+11 May 2017 23:34:27 : LOADED pilum.wpn
+11 May 2017 23:34:27 : LOADED plasma.wpn
+11 May 2017 23:34:27 : LOADED pulselaser.wpn
+11 May 2017 23:34:27 : LOADED railgun.wpn
+11 May 2017 23:34:27 : LOADED reaper.wpn
+11 May 2017 23:34:27 : LOADED sabot.wpn
+11 May 2017 23:34:27 : LOADED sabotpod.wpn
+11 May 2017 23:34:27 : LOADED sabot_single.wpn
+11 May 2017 23:34:27 : LOADED salamanderpod.wpn
+11 May 2017 23:34:27 : LOADED sensordish.wpn
+11 May 2017 23:34:27 : LOADED shredder.wpn
+11 May 2017 23:34:27 : LOADED swarmer.wpn
+11 May 2017 23:34:27 : LOADED tachyonlance.wpn
+11 May 2017 23:34:27 : LOADED taclaser.wpn
+11 May 2017 23:34:27 : LOADED tpc.wpn
+11 May 2017 23:34:27 : LOADED typhoon.wpn
+11 May 2017 23:34:27 : LOADED vulcan.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : Enum    (ship_csv.shield type)
+11 May 2017 23:34:27 : LOADED ship_data.csv
+11 May 2017 23:34:27 : Enum    (wing_csv.role)
+11 May 2017 23:34:27 : LOADED wing_data.csv
+11 May 2017 23:34:27 : LOADED weapon_data.csv
+11 May 2017 23:34:27 : LOADED hull_mods.csv
+11 May 2017 23:34:27 : Loading MOD Data: C:\Games\Starsector\mods\BGEAIModplugin/
+11 May 2017 23:34:27 : Enum  BIOLOGICAL  (ship.style)
+11 May 2017 23:34:27 : LOADED bge_arbiter.ship
+11 May 2017 23:34:27 : LOADED bge_brut.ship
+11 May 2017 23:34:27 : LOADED bge_flusskrebs.ship
+11 May 2017 23:34:27 : LOADED bge_hornisse.ship
+11 May 2017 23:34:27 : LOADED bge_koenig.ship
+11 May 2017 23:34:27 : LOADED bge_krieger.ship
+11 May 2017 23:34:27 : LOADED bge_mord_drone.ship
+11 May 2017 23:34:27 : LOADED bge_nymphe.ship
+11 May 2017 23:34:27 : LOADED bge_rache.ship
+11 May 2017 23:34:27 : LOADED bge_trauer.ship
+11 May 2017 23:34:27 : LOADED bge_vergifter.ship
+11 May 2017 23:34:27 : LOADED bge_verzweiflung.ship
+11 May 2017 23:34:27 : LOADED bge_waechter.ship
+11 May 2017 23:34:27 : LOADED bge_zophe.ship
+11 May 2017 23:34:27 : LOADED bge_zorn.ship
+11 May 2017 23:34:27 : LOADED bge_arbiter_siege.variant
+11 May 2017 23:34:27 : LOADED bge_arbiter_standard.variant
+11 May 2017 23:34:27 : LOADED bge_brut_drone.variant
+11 May 2017 23:34:27 : LOADED bge_flusskrebs_siege.variant
+11 May 2017 23:34:27 : LOADED bge_flusskrebs_standard.variant
+11 May 2017 23:34:27 : LOADED bge_koenig_siege.variant
+11 May 2017 23:34:27 : LOADED bge_koenig_standard.variant
+11 May 2017 23:34:27 : LOADED bge_krieger_standard.variant
+11 May 2017 23:34:27 : LOADED bge_mord_drone_standard.variant
+11 May 2017 23:34:27 : LOADED bge_rache_standard.variant
+11 May 2017 23:34:27 : LOADED bge_trauer_standard.variant
+11 May 2017 23:34:27 : LOADED bge_vergifter_standard.variant
+11 May 2017 23:34:27 : LOADED bge_verzweiflung_standard.variant
+11 May 2017 23:34:27 : LOADED bge_waechter_siege.variant
+11 May 2017 23:34:27 : LOADED bge_waechter_standard.variant
+11 May 2017 23:34:27 : LOADED bge_zophe_siege.variant
+11 May 2017 23:34:27 : LOADED bge_zophe_standard.variant
+11 May 2017 23:34:27 : LOADED bge_zorn_standard.variant
+11 May 2017 23:34:27 : LOADED bge_hornisse_standard.variant
+11 May 2017 23:34:27 : LOADED bge_nymphe_standard.variant
+11 May 2017 23:34:27 : LOADED acidthrower.wpn
+11 May 2017 23:34:27 : LOADED adv_lrg_mand.wpn
+11 May 2017 23:34:27 : LOADED adv_lrg_scythe.wpn
+11 May 2017 23:34:27 : LOADED adv_med_scythe.wpn
+11 May 2017 23:34:27 : LOADED adv_sml_mand.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED antena_left.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED antena_right.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Arbiter.wpn
+11 May 2017 23:34:27 : LOADED bge_grappler.wpn
+11 May 2017 23:34:27 : LOADED bge_grappler_pd.wpn
+11 May 2017 23:34:27 : LOADED bge_mini_grappler.wpn
+11 May 2017 23:34:27 : LOADED bge_mord_grappler.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_left_huge.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_left_large.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_left_medium.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_left_small.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_left_tiny.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_right_huge.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_right_large.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_right_medium.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_right_small.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED dark_fin_right_tiny.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED deco_feeler_l.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED deco_feeler_r.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Flusskrebs.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Koenig.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED koenigfinleft.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED koenigfinright.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED koenig_eyes.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED koenig_shell_left.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED koenig_shell_right.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Krieger.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED long_fin_left.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED long_fin_left2.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED long_fin_left_sml.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED long_fin_left_sml2.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED long_fin_right.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED long_fin_right2.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED long_fin_right_sml.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED long_fin_right_sml2.wpn
+11 May 2017 23:34:27 : LOADED lrg_mand.wpn
+11 May 2017 23:34:27 : Enum  MADIUM  (weapon.size)
+11 May 2017 23:34:27 : LOADED lrg_pincer.wpn
+11 May 2017 23:34:27 : LOADED lrg_scythe.wpn
+11 May 2017 23:34:27 : LOADED med_pincer.wpn
+11 May 2017 23:34:27 : LOADED med_scythe.wpn
+11 May 2017 23:34:27 : LOADED projectile_weapon.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Rache.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Rache_head.wpn
+11 May 2017 23:34:27 : LOADED sml_mand.wpn
+11 May 2017 23:34:27 : LOADED spawner.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED stinger_left.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED stinger_right.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_gargantuan.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_gargantuan_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_huge.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_huge_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_huge_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_large.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_large_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_large_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_medium.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_medium_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_medium_barbed_short.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_medium_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_micro_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_small.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_small_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_small_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_tiny.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_tiny_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_left_tiny_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_gargantuan.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_gargantuan_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_huge.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_huge_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_huge_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_large.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_large_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_large_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_medium.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_medium_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_medium_barbed_short.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_medium_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_micro_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_small.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_small_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_small_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_tiny.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_tiny_barbed.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED tentacle_right_tiny_dark.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED trans_fin_left.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED trans_fin_left2.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED trans_fin_left_sml.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED trans_fin_left_sml2.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED trans_fin_right.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED trans_fin_right2.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED trans_fin_right_sml.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED trans_fin_right_sml2.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Trauer.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Vergifter.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Verzweiflung.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Waechter.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED waechtershell.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED waechtershell2.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED waechter_eyes.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Zophe.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Zorn.wpn
+11 May 2017 23:34:27 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:27 : LOADED Zorn_head.wpn
+11 May 2017 23:34:27 : Enum  BGE  (ship.engine.styleId)
+11 May 2017 23:34:27 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : Enum  BGE_ADV  (ship.engine.styleId)
+11 May 2017 23:34:27 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : LOADED ship_data.csv
+11 May 2017 23:34:27 : LOADED wing_data.csv
+11 May 2017 23:34:27 : LOADED weapon_data.csv
+11 May 2017 23:34:27 : LOADED hull_mods.csv
+11 May 2017 23:34:27 : Loading MOD Data: C:\Games\Starsector\mods\Vacuum/
+11 May 2017 23:34:27 : LOADED acanthus.ship
+11 May 2017 23:34:27 : LOADED afflictor.ship
+11 May 2017 23:34:27 : LOADED apogee.ship
+11 May 2017 23:34:27 : LOADED astral.ship
+11 May 2017 23:34:27 : LOADED atlas.ship
+11 May 2017 23:34:27 : LOADED aurora.ship
+11 May 2017 23:34:27 : LOADED black_eagle.ship
+11 May 2017 23:34:27 : LOADED blade.ship
+11 May 2017 23:34:27 : LOADED boarding_shuttle.ship
+11 May 2017 23:34:27 : LOADED boom.ship
+11 May 2017 23:34:27 : LOADED brawler.ship
+11 May 2017 23:34:27 : LOADED broadsword.ship
+11 May 2017 23:34:27 : LOADED brute.ship
+11 May 2017 23:34:27 : LOADED buffalo.ship
+11 May 2017 23:34:27 : LOADED buffalo2.ship
+11 May 2017 23:34:27 : LOADED calypso.ship
+11 May 2017 23:34:27 : LOADED cataphract.ship
+11 May 2017 23:34:27 : LOADED chiron.ship
+11 May 2017 23:34:27 : LOADED cleaver.ship
+11 May 2017 23:34:27 : LOADED clover.ship
+11 May 2017 23:34:27 : LOADED condor.ship
+11 May 2017 23:34:27 : LOADED conquest.ship
+11 May 2017 23:34:27 : LOADED crasher.ship
+11 May 2017 23:34:27 : LOADED crow.ship
+11 May 2017 23:34:27 : LOADED crystalline.ship
+11 May 2017 23:34:27 : LOADED dachsund.ship
+11 May 2017 23:34:27 : LOADED dagger.ship
+11 May 2017 23:34:27 : LOADED dahkan.ship
+11 May 2017 23:34:27 : LOADED daisho.ship
+11 May 2017 23:34:27 : LOADED delta.ship
+11 May 2017 23:34:27 : LOADED demander.ship
+11 May 2017 23:34:27 : LOADED dirk.ship
+11 May 2017 23:34:27 : LOADED dominator.ship
+11 May 2017 23:34:27 : LOADED doom.ship
+11 May 2017 23:34:27 : LOADED dram.ship
+11 May 2017 23:34:27 : LOADED drone_assault.ship
+11 May 2017 23:34:27 : LOADED drone_miner.ship
+11 May 2017 23:34:27 : LOADED drone_pd.ship
+11 May 2017 23:34:27 : LOADED drone_pd_midline.ship
+11 May 2017 23:34:27 : LOADED drone_sensor.ship
+11 May 2017 23:34:27 : LOADED eagle.ship
+11 May 2017 23:34:27 : LOADED eisenstein.ship
+11 May 2017 23:34:27 : LOADED enforcer.ship
+11 May 2017 23:34:27 : LOADED excelsior.ship
+11 May 2017 23:34:27 : LOADED exigency_carrier.ship
+11 May 2017 23:34:27 : LOADED exigency_cruiser.ship
+11 May 2017 23:34:27 : LOADED exigency_glynado.ship
+11 May 2017 23:34:27 : LOADED exigency_sidecar.ship
+11 May 2017 23:34:27 : LOADED exigency_yria.ship
+11 May 2017 23:34:27 : LOADED falcata_carrier.ship
+11 May 2017 23:34:27 : LOADED falcon.ship
+11 May 2017 23:34:27 : LOADED fs_carson.ship
+11 May 2017 23:34:27 : LOADED fs_cousteau.ship
+11 May 2017 23:34:27 : LOADED fs_muir.ship
+11 May 2017 23:34:27 : LOADED fusilier.ship
+11 May 2017 23:34:27 : LOADED gemini.ship
+11 May 2017 23:34:27 : LOADED gladius.ship
+11 May 2017 23:34:27 : LOADED glasgow.ship
+11 May 2017 23:34:27 : LOADED glaug_bat.ship
+11 May 2017 23:34:27 : LOADED glaug_battleship.ship
+11 May 2017 23:34:27 : LOADED glaug_burrower.ship
+11 May 2017 23:34:27 : LOADED glaug_catcher.ship
+11 May 2017 23:34:27 : LOADED glaug_cruiser.ship
+11 May 2017 23:34:27 : LOADED glaug_deathfrog.ship
+11 May 2017 23:34:27 : LOADED glaug_flea.ship
+11 May 2017 23:34:27 : LOADED glaug_flyter.ship
+11 May 2017 23:34:27 : LOADED glaug_frigate.ship
+11 May 2017 23:34:27 : LOADED glaug_gnat.ship
+11 May 2017 23:34:27 : LOADED glaug_gnawler.ship
+11 May 2017 23:34:27 : LOADED glaug_haunter.ship
+11 May 2017 23:34:27 : LOADED glaug_mantabee.ship
+11 May 2017 23:34:27 : LOADED glaug_songbird.ship
+11 May 2017 23:34:27 : LOADED glaug_swimmer.ship
+11 May 2017 23:34:27 : LOADED glaug_troll.ship
+11 May 2017 23:34:27 : LOADED grey_death.ship
+11 May 2017 23:34:27 : LOADED hammerhead.ship
+11 May 2017 23:34:27 : LOADED hauler.ship
+11 May 2017 23:34:27 : LOADED hermes.ship
+11 May 2017 23:34:27 : LOADED hound.ship
+11 May 2017 23:34:27 : LOADED hugefleet.ship
+11 May 2017 23:34:27 : LOADED hunter.ship
+11 May 2017 23:34:27 : LOADED hyperion.ship
+11 May 2017 23:34:27 : LOADED inferno.ship
+11 May 2017 23:34:27 : LOADED jean_station.ship
+11 May 2017 23:34:27 : LOADED kanjar.ship
+11 May 2017 23:34:27 : LOADED lancer.ship
+11 May 2017 23:34:27 : LOADED largefleet.ship
+11 May 2017 23:34:27 : LOADED lasher.ship
+11 May 2017 23:34:27 : LOADED launcher.ship
+11 May 2017 23:34:27 : LOADED llama.ship
+11 May 2017 23:34:27 : LOADED longbow.ship
+11 May 2017 23:34:27 : LOADED macuahuitl.ship
+11 May 2017 23:34:27 : LOADED magister.ship
+11 May 2017 23:34:27 : LOADED marlene_station.ship
+11 May 2017 23:34:27 : LOADED mastiff.ship
+11 May 2017 23:34:27 : LOADED maxim.ship
+11 May 2017 23:34:27 : LOADED medfleet.ship
+11 May 2017 23:34:27 : LOADED medusa.ship
+11 May 2017 23:34:27 : LOADED mining_drone.ship
+11 May 2017 23:34:27 : LOADED mule.ship
+11 May 2017 23:34:27 : LOADED nautilus.ship
+11 May 2017 23:34:27 : LOADED odyssey.ship
+11 May 2017 23:34:27 : LOADED omen.ship
+11 May 2017 23:34:27 : LOADED onslaught.ship
+11 May 2017 23:34:27 : LOADED paragon.ship
+11 May 2017 23:34:27 : LOADED patton.ship
+11 May 2017 23:34:27 : LOADED peashooter.ship
+11 May 2017 23:34:27 : LOADED pelican.ship
+11 May 2017 23:34:27 : LOADED phaeton.ship
+11 May 2017 23:34:27 : LOADED phalanx.ship
+11 May 2017 23:34:27 : LOADED piranha.ship
+11 May 2017 23:34:27 : LOADED pj_archer.ship
+11 May 2017 23:34:27 : LOADED pj_duke.ship
+11 May 2017 23:34:27 : LOADED pj_earl.ship
+11 May 2017 23:34:27 : LOADED pj_knight.ship
+11 May 2017 23:34:27 : LOADED pj_queen.ship
+11 May 2017 23:34:27 : LOADED pj_squire.ship
+11 May 2017 23:34:27 : LOADED plantain.ship
+11 May 2017 23:34:27 : LOADED quetzalcoatl.ship
+11 May 2017 23:34:27 : LOADED ranger.ship
+11 May 2017 23:34:27 : LOADED red_tail.ship
+11 May 2017 23:34:27 : LOADED scimitar.ship
+11 May 2017 23:34:27 : LOADED scythus.ship
+11 May 2017 23:34:27 : LOADED shade.ship
+11 May 2017 23:34:27 : LOADED shrike.ship
+11 May 2017 23:34:27 : LOADED shuttle.ship
+11 May 2017 23:34:27 : LOADED shuttlepod.ship
+11 May 2017 23:34:27 : LOADED silent_raven.ship
+11 May 2017 23:34:27 : LOADED smallfleet.ship
+11 May 2017 23:34:27 : LOADED sparrowhawk.ship
+11 May 2017 23:34:27 : LOADED spearhead.ship
+11 May 2017 23:34:27 : LOADED spector_viii.ship
+11 May 2017 23:34:27 : LOADED speeder.ship
+11 May 2017 23:34:27 : LOADED stratos.ship
+11 May 2017 23:34:27 : LOADED striker.ship
+11 May 2017 23:34:27 : LOADED sunder.ship
+11 May 2017 23:34:27 : LOADED swift.ship
+11 May 2017 23:34:27 : LOADED swordfish_2.ship
+11 May 2017 23:34:27 : LOADED talon.ship
+11 May 2017 23:34:27 : LOADED tarsus.ship
+11 May 2017 23:34:27 : LOADED tempest.ship
+11 May 2017 23:34:27 : LOADED thunder.ship
+11 May 2017 23:34:27 : LOADED trident.ship
+11 May 2017 23:34:27 : LOADED tyr.ship
+11 May 2017 23:34:27 : LOADED valkyrie.ship
+11 May 2017 23:34:27 : LOADED vendetta.ship
+11 May 2017 23:34:27 : LOADED venture.ship
+11 May 2017 23:34:27 : LOADED vfleet_farmstead.ship
+11 May 2017 23:34:27 : LOADED vfleet_packer.ship
+11 May 2017 23:34:27 : LOADED vigilance.ship
+11 May 2017 23:34:27 : LOADED warthog.ship
+11 May 2017 23:34:27 : LOADED wasp.ship
+11 May 2017 23:34:27 : LOADED wolf.ship
+11 May 2017 23:34:27 : LOADED xyphos.ship
+11 May 2017 23:34:27 : LOADED acanthus_Standard.variant
+11 May 2017 23:34:27 : LOADED afflictor_Standard.variant
+11 May 2017 23:34:27 : LOADED afflictor_Strike.variant
+11 May 2017 23:34:27 : LOADED apogee_Standard.variant
+11 May 2017 23:34:27 : LOADED astral_Standard.variant
+11 May 2017 23:34:27 : LOADED atlas_Standard.variant
+11 May 2017 23:34:27 : LOADED aurora_Standard.variant
+11 May 2017 23:34:27 : LOADED black_eagle_Standard.variant
+11 May 2017 23:34:27 : LOADED blade_Standard.variant
+11 May 2017 23:34:27 : LOADED boom_Standard.variant
+11 May 2017 23:34:27 : LOADED brawler_Assault.variant
+11 May 2017 23:34:27 : LOADED brawler_Assaulttest.variant
+11 May 2017 23:34:27 : LOADED brawler_Standard.variant
+11 May 2017 23:34:27 : LOADED brawler_Starting.variant
+11 May 2017 23:34:27 : LOADED brute_Standard.variant
+11 May 2017 23:34:27 : LOADED buffalo2_Standard.variant
+11 May 2017 23:34:27 : LOADED buffalo_Standard.variant
+11 May 2017 23:34:27 : LOADED calypso_Standard.variant
+11 May 2017 23:34:27 : LOADED cataphract_Standard.variant
+11 May 2017 23:34:27 : LOADED chiron_Standard.variant
+11 May 2017 23:34:27 : LOADED cleaver_Standard.variant
+11 May 2017 23:34:27 : LOADED clover_Standard.variant
+11 May 2017 23:34:27 : LOADED condor_Standard.variant
+11 May 2017 23:34:27 : LOADED condor_Strike.variant
+11 May 2017 23:34:27 : LOADED conquest_Elite.variant
+11 May 2017 23:34:27 : LOADED conquest_Standard.variant
+11 May 2017 23:34:27 : LOADED crasher_Standard.variant
+11 May 2017 23:34:27 : LOADED crow_Standard.variant
+11 May 2017 23:34:27 : LOADED crystalline_Standard.variant
+11 May 2017 23:34:27 : LOADED dachsund_Standard.variant
+11 May 2017 23:34:27 : LOADED dahkan_Standard.variant
+11 May 2017 23:34:27 : LOADED daisho_Standard.variant
+11 May 2017 23:34:27 : LOADED demander_Standard.variant
+11 May 2017 23:34:27 : LOADED dirk_Standard.variant
+11 May 2017 23:34:27 : LOADED dominator_Outdated.variant
+11 May 2017 23:34:27 : LOADED dominator_Standard.variant
+11 May 2017 23:34:27 : LOADED dominator_Support.variant
+11 May 2017 23:34:27 : LOADED doom_Standard.variant
+11 May 2017 23:34:27 : LOADED dram_Standard.variant
+11 May 2017 23:34:27 : LOADED eagle_Standard.variant
+11 May 2017 23:34:27 : LOADED eisenstein_Standard.variant
+11 May 2017 23:34:27 : LOADED enforcer_Balanced.variant
+11 May 2017 23:34:27 : LOADED enforcer_CS.variant
+11 May 2017 23:34:27 : LOADED enforcer_Outdated.variant
+11 May 2017 23:34:27 : LOADED enforcer_Standard.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED enforcer_Support.variant
+11 May 2017 23:34:27 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:27 : LOADED excelsior_Standard.variant
+11 May 2017 23:34:27 : LOADED exigency_carrier_Standard.variant
+11 May 2017 23:34:27 : LOADED exigency_cruiser_Standard.variant
+11 May 2017 23:34:27 : LOADED exigency_yria_Standard.variant
+11 May 2017 23:34:27 : LOADED falcata_carrier_Standard.variant
+11 May 2017 23:34:27 : LOADED falcon_Attack.variant
+11 May 2017 23:34:27 : LOADED falcon_CS.variant
+11 May 2017 23:34:27 : LOADED falcon_Standard.variant
+11 May 2017 23:34:27 : LOADED fs_carson_Standard.variant
+11 May 2017 23:34:27 : LOADED fusilier_Standard.variant
+11 May 2017 23:34:27 : LOADED gemini_Standard.variant
+11 May 2017 23:34:27 : LOADED glasgow_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_battleship_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_bat_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_burrower_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_catcher_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_cruiser_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_deathfrog_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_frigate_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_haunter_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_mantabee_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_swimmer_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_troll_Standard.variant
+11 May 2017 23:34:27 : LOADED grey_death_Standard.variant
+11 May 2017 23:34:27 : LOADED hammerhead_Elite.variant
+11 May 2017 23:34:27 : LOADED hammerhead_Standard.variant
+11 May 2017 23:34:27 : LOADED hauler_Standard.variant
+11 May 2017 23:34:27 : LOADED hermes_Standard.variant
+11 May 2017 23:34:27 : LOADED hound_Standard.variant
+11 May 2017 23:34:27 : LOADED hugefleet_Standard.variant
+11 May 2017 23:34:27 : LOADED hunter_Standard.variant
+11 May 2017 23:34:27 : LOADED hyperion_Standard.variant
+11 May 2017 23:34:27 : LOADED hyperion_Strike.variant
+11 May 2017 23:34:27 : LOADED inferno_Standard.variant
+11 May 2017 23:34:27 : LOADED jean_station_AI.variant
+11 May 2017 23:34:27 : LOADED jean_station_Standard.variant
+11 May 2017 23:34:27 : LOADED lancer_Standard.variant
+11 May 2017 23:34:27 : LOADED largefleet_Standard.variant
+11 May 2017 23:34:27 : LOADED lasher_Assault.variant
+11 May 2017 23:34:27 : LOADED lasher_CS.variant
+11 May 2017 23:34:27 : LOADED lasher_PD.variant
+11 May 2017 23:34:27 : LOADED lasher_Standard.variant
+11 May 2017 23:34:27 : LOADED lasher_Starting.variant
+11 May 2017 23:34:27 : LOADED lasher_Strike.variant
+11 May 2017 23:34:27 : LOADED launcher_Standard.variant
+11 May 2017 23:34:27 : LOADED llama_Standard.variant
+11 May 2017 23:34:27 : LOADED macuahuitl_Standard.variant
+11 May 2017 23:34:27 : LOADED magister_Standard.variant
+11 May 2017 23:34:27 : LOADED marlene_station_Standard.variant
+11 May 2017 23:34:27 : LOADED mastiff_Standard.variant
+11 May 2017 23:34:27 : LOADED maxim_Standard.variant
+11 May 2017 23:34:27 : LOADED medfleet_Standard.variant
+11 May 2017 23:34:27 : LOADED medusa_Standard.variant
+11 May 2017 23:34:27 : LOADED mule_Standard.variant
+11 May 2017 23:34:27 : LOADED nautilus_Standard.variant
+11 May 2017 23:34:27 : LOADED odyssey_Standard.variant
+11 May 2017 23:34:27 : LOADED omen_Standard.variant
+11 May 2017 23:34:27 : LOADED onslaught_Elite.variant
+11 May 2017 23:34:27 : LOADED onslaught_Outdated.variant
+11 May 2017 23:34:27 : LOADED onslaught_Standard.variant
+11 May 2017 23:34:27 : LOADED paragon_Standard.variant
+11 May 2017 23:34:27 : LOADED patton_Standard.variant
+11 May 2017 23:34:27 : LOADED pelican_Standard.variant
+11 May 2017 23:34:27 : LOADED phaeton_Standard.variant
+11 May 2017 23:34:27 : LOADED phalanx_Standard.variant
+11 May 2017 23:34:27 : LOADED pj_archer_Standard.variant
+11 May 2017 23:34:27 : LOADED pj_duke_Standard.variant
+11 May 2017 23:34:27 : LOADED pj_earl_Standard.variant
+11 May 2017 23:34:27 : LOADED pj_knight_Standard.variant
+11 May 2017 23:34:27 : LOADED pj_queen_Standard.variant
+11 May 2017 23:34:27 : LOADED plantain_Standard.variant
+11 May 2017 23:34:27 : LOADED quetzalcoatl_Standard.variant
+11 May 2017 23:34:27 : LOADED red_tail_Standard.variant
+11 May 2017 23:34:27 : LOADED scimitar_Standard.variant
+11 May 2017 23:34:27 : LOADED scythus_Standard.variant
+11 May 2017 23:34:27 : LOADED shade_Standard.variant
+11 May 2017 23:34:27 : LOADED shrike_Standard.variant
+11 May 2017 23:34:27 : LOADED shuttle_Standard.variant
+11 May 2017 23:34:27 : LOADED silent_raven_Standard.variant
+11 May 2017 23:34:27 : LOADED smallfleet_Standard.variant
+11 May 2017 23:34:27 : LOADED sparrowhawk_Standard.variant
+11 May 2017 23:34:27 : LOADED spearhead_Standard.variant
+11 May 2017 23:34:27 : LOADED spector_viii_Standard.variant
+11 May 2017 23:34:27 : LOADED speeder_Standard.variant
+11 May 2017 23:34:27 : LOADED stratos_Standard.variant
+11 May 2017 23:34:27 : LOADED striker_Standard.variant
+11 May 2017 23:34:27 : LOADED sunder_Standard.variant
+11 May 2017 23:34:27 : LOADED swift_Standard.variant
+11 May 2017 23:34:27 : LOADED swordfish_2_Standard.variant
+11 May 2017 23:34:27 : LOADED tarsus_Standard.variant
+11 May 2017 23:34:27 : LOADED tempest_Balanced.variant
+11 May 2017 23:34:27 : LOADED tempest_Standard.variant
+11 May 2017 23:34:27 : LOADED tyr_Standard.variant
+11 May 2017 23:34:27 : LOADED valkyrie_Standard.variant
+11 May 2017 23:34:27 : LOADED venture_Standard.variant
+11 May 2017 23:34:27 : LOADED vfleet_farmstead_Standard.variant
+11 May 2017 23:34:27 : LOADED vfleet_packer_Standard.variant
+11 May 2017 23:34:27 : LOADED vigilance_AP.variant
+11 May 2017 23:34:27 : LOADED vigilance_FS.variant
+11 May 2017 23:34:27 : LOADED vigilance_Standard.variant
+11 May 2017 23:34:27 : LOADED vigilance_Starting.variant
+11 May 2017 23:34:27 : LOADED vigilance_Strike.variant
+11 May 2017 23:34:27 : LOADED wolf_CS.variant
+11 May 2017 23:34:27 : LOADED wolf_PD.variant
+11 May 2017 23:34:27 : LOADED wolf_Standard.variant
+11 May 2017 23:34:27 : LOADED wolf_Starting.variant
+11 May 2017 23:34:27 : LOADED wolf_Strike.variant
+11 May 2017 23:34:27 : LOADED boarding_shuttle_Standard.variant
+11 May 2017 23:34:27 : LOADED broadsword_Fighter.variant
+11 May 2017 23:34:27 : LOADED dagger_Bomber.variant
+11 May 2017 23:34:27 : LOADED delta_Standard.variant
+11 May 2017 23:34:27 : LOADED exigency_glynado_Standard.variant
+11 May 2017 23:34:27 : LOADED exigency_sidecar_Standard.variant
+11 May 2017 23:34:27 : LOADED gladius_Fighter.variant
+11 May 2017 23:34:27 : LOADED glaug_bat_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_flyter_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_gnawler_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_songbird_Standard.variant
+11 May 2017 23:34:27 : LOADED kanjar_Standard.variant
+11 May 2017 23:34:27 : LOADED longbow_Support.variant
+11 May 2017 23:34:27 : LOADED mining_drone_Standard.variant
+11 May 2017 23:34:27 : LOADED peashooter_Standard.variant
+11 May 2017 23:34:27 : LOADED piranha_Bomber.variant
+11 May 2017 23:34:27 : LOADED pj_squire_Standard.variant
+11 May 2017 23:34:27 : LOADED ranger_Standard.variant
+11 May 2017 23:34:27 : LOADED talon_Interceptor.variant
+11 May 2017 23:34:27 : LOADED thunder_Fighter.variant
+11 May 2017 23:34:27 : LOADED trident_Bomber.variant
+11 May 2017 23:34:27 : LOADED vendetta_Standard.variant
+11 May 2017 23:34:27 : LOADED warthog_Fighter.variant
+11 May 2017 23:34:27 : LOADED wasp_Interceptor.variant
+11 May 2017 23:34:27 : LOADED xyphos_Fighter.variant
+11 May 2017 23:34:27 : LOADED drone_assault.variant
+11 May 2017 23:34:27 : LOADED drone_miner_Standard.variant
+11 May 2017 23:34:27 : LOADED drone_pd.variant
+11 May 2017 23:34:27 : LOADED drone_pd_midline.variant
+11 May 2017 23:34:27 : LOADED drone_sensor.variant
+11 May 2017 23:34:27 : LOADED glaug_flea_Standard.variant
+11 May 2017 23:34:27 : LOADED glaug_gnat_Standard.variant
+11 May 2017 23:34:27 : LOADED amblaster.wpn
+11 May 2017 23:34:27 : LOADED annihilator.wpn
+11 May 2017 23:34:27 : LOADED annihilatorpod.wpn
+11 May 2017 23:34:27 : LOADED anroc.wpn
+11 May 2017 23:34:27 : LOADED arbalest.wpn
+11 May 2017 23:34:27 : LOADED atropos.wpn
+11 May 2017 23:34:27 : LOADED atropos_single.wpn
+11 May 2017 23:34:27 : LOADED autopulse.wpn
+11 May 2017 23:34:27 : LOADED boarding_shuttle_gun.wpn
+11 May 2017 23:34:27 : LOADED bomb.wpn
+11 May 2017 23:34:27 : LOADED chaingun.wpn
+11 May 2017 23:34:27 : LOADED clover_launcher.wpn
+11 May 2017 23:34:27 : LOADED clusterbomb.wpn
+11 May 2017 23:34:27 : LOADED cyclone.wpn
+11 May 2017 23:34:27 : LOADED dualflak.wpn
+11 May 2017 23:34:27 : LOADED exigency_bb_torp.wpn
+11 May 2017 23:34:27 : LOADED exigency_lightning_gun.wpn
+11 May 2017 23:34:27 : LOADED exigency_mmm.wpn
+11 May 2017 23:34:27 : LOADED exigency_mmm_1.wpn
+11 May 2017 23:34:27 : LOADED exigency_mmm_2.wpn
+11 May 2017 23:34:27 : LOADED exigency_mmm_f.wpn
+11 May 2017 23:34:27 : LOADED exigency_mmm_f1.wpn
+11 May 2017 23:34:27 : LOADED exigency_mmm_f2.wpn
+11 May 2017 23:34:27 : LOADED exigency_repulsor_beam.wpn
+11 May 2017 23:34:27 : LOADED exigency_rr.wpn
+11 May 2017 23:34:27 : LOADED exigency_sabot_pd.wpn
+11 May 2017 23:34:27 : LOADED exigency_vindictive.wpn
+11 May 2017 23:34:27 : LOADED flak.wpn
+11 May 2017 23:34:27 : LOADED fragbomb.wpn
+11 May 2017 23:34:27 : LOADED freezeray.wpn
+11 May 2017 23:34:27 : LOADED gauss.wpn
+11 May 2017 23:34:27 : LOADED glaug_cluster_launcher.wpn
+11 May 2017 23:34:27 : LOADED glaug_pd.wpn
+11 May 2017 23:34:27 : LOADED glaug_shard_gun.wpn
+11 May 2017 23:34:27 : LOADED glaug_spore_gun_large.wpn
+11 May 2017 23:34:27 : LOADED glaug_spore_gun_medium.wpn
+11 May 2017 23:34:27 : LOADED glaug_thermal_gun.wpn
+11 May 2017 23:34:27 : LOADED glaug_trilaser.wpn
+11 May 2017 23:34:27 : LOADED gravitonbeam.wpn
+11 May 2017 23:34:27 : LOADED guardian.wpn
+11 May 2017 23:34:27 : LOADED harpoon.wpn
+11 May 2017 23:34:27 : LOADED harpoonpod.wpn
+11 May 2017 23:34:27 : LOADED harpoon_single.wpn
+11 May 2017 23:34:27 : LOADED heatseeker.wpn
+11 May 2017 23:34:27 : LOADED heavyac.wpn
+11 May 2017 23:34:27 : LOADED heavyag.wpn
+11 May 2017 23:34:27 : LOADED heavyblaster.wpn
+11 May 2017 23:34:27 : LOADED heavyburst.wpn
+11 May 2017 23:34:27 : LOADED heavymauler.wpn
+11 May 2017 23:34:27 : LOADED heavymg.wpn
+11 May 2017 23:34:27 : LOADED heavyneedler.wpn
+11 May 2017 23:34:27 : LOADED heavyplasma.wpn
+11 May 2017 23:34:27 : LOADED heavy_annihilator.wpn
+11 May 2017 23:34:27 : LOADED heavy_bolter.wpn
+11 May 2017 23:34:27 : LOADED hellbore.wpn
+11 May 2017 23:34:27 : LOADED hephag.wpn
+11 May 2017 23:34:27 : LOADED hil.wpn
+11 May 2017 23:34:27 : LOADED hurricane.wpn
+11 May 2017 23:34:27 : LOADED hveldriver.wpn
+11 May 2017 23:34:27 : LOADED interdictorbeam.wpn
+11 May 2017 23:34:27 : LOADED ioncannon.wpn
+11 May 2017 23:34:27 : LOADED irpulse.wpn
+11 May 2017 23:34:27 : LOADED lightac.wpn
+11 May 2017 23:34:27 : LOADED lightag.wpn
+11 May 2017 23:34:27 : LOADED lightdualac.wpn
+11 May 2017 23:34:27 : LOADED lightdualmg.wpn
+11 May 2017 23:34:27 : LOADED lightmg.wpn
+11 May 2017 23:34:27 : LOADED lightmortar.wpn
+11 May 2017 23:34:27 : LOADED lightneedler.wpn
+11 May 2017 23:34:27 : LOADED lrpdlaser.wpn
+11 May 2017 23:34:27 : LOADED mark9.wpn
+11 May 2017 23:34:27 : LOADED medlaser.wpn
+11 May 2017 23:34:27 : LOADED megabeam.wpn
+11 May 2017 23:34:27 : LOADED melter.wpn
+11 May 2017 23:34:27 : LOADED millenium.wpn
+11 May 2017 23:34:27 : LOADED miningblaster.wpn
+11 May 2017 23:34:27 : LOADED mininglaser.wpn
+11 May 2017 23:34:27 : LOADED mjolnir.wpn
+11 May 2017 23:34:27 : LOADED multineedler.wpn
+11 May 2017 23:34:27 : LOADED neutron_blaster.wpn
+11 May 2017 23:34:27 : LOADED neutron_cannon.wpn
+11 May 2017 23:34:27 : LOADED pdburst.wpn
+11 May 2017 23:34:27 : LOADED pdlaser.wpn
+11 May 2017 23:34:27 : LOADED phasebeam.wpn
+11 May 2017 23:34:27 : LOADED pilum.wpn
+11 May 2017 23:34:27 : LOADED plasma.wpn
+11 May 2017 23:34:27 : LOADED plasma_blaster.wpn
+11 May 2017 23:34:27 : LOADED plasma_triple_blaster.wpn
+11 May 2017 23:34:27 : LOADED proximity_charge_clone.wpn
+11 May 2017 23:34:27 : LOADED proximity_charge_launcher.wpn
+11 May 2017 23:34:27 : LOADED pulselaser.wpn
+11 May 2017 23:34:27 : LOADED railgun.wpn
+11 May 2017 23:34:27 : LOADED reaper.wpn
+11 May 2017 23:34:27 : LOADED sabot.wpn
+11 May 2017 23:34:27 : LOADED sabotpod.wpn
+11 May 2017 23:34:27 : LOADED sabot_single.wpn
+11 May 2017 23:34:27 : LOADED salamanderpod.wpn
+11 May 2017 23:34:27 : LOADED shredder.wpn
+11 May 2017 23:34:27 : LOADED slammer.wpn
+11 May 2017 23:34:27 : LOADED slammer_dual_turret.wpn
+11 May 2017 23:34:27 : LOADED slugger.wpn
+11 May 2017 23:34:27 : LOADED slugthrower.wpn
+11 May 2017 23:34:27 : LOADED swarmer.wpn
+11 May 2017 23:34:27 : LOADED swarmerpod.wpn
+11 May 2017 23:34:27 : LOADED sweeper.wpn
+11 May 2017 23:34:27 : LOADED sweeper_clone.wpn
+11 May 2017 23:34:27 : LOADED swift_launcher.wpn
+11 May 2017 23:34:27 : LOADED tachyonlance.wpn
+11 May 2017 23:34:27 : LOADED taclaser.wpn
+11 May 2017 23:34:27 : LOADED thruster_fighter_sm_blue.wpn
+11 May 2017 23:34:27 : LOADED thruster_fighter_sm_green.wpn
+11 May 2017 23:34:27 : LOADED thruster_fighter_sm_orange.wpn
+11 May 2017 23:34:27 : LOADED thruster_fighter_sm_purple.wpn
+11 May 2017 23:34:27 : LOADED thruster_flare.wpn
+11 May 2017 23:34:27 : LOADED thruster_left.wpn
+11 May 2017 23:34:27 : LOADED thruster_left_big.wpn
+11 May 2017 23:34:27 : LOADED thruster_left_big_blue.wpn
+11 May 2017 23:34:27 : LOADED thruster_left_blue.wpn
+11 May 2017 23:34:27 : LOADED thruster_right.wpn
+11 May 2017 23:34:27 : LOADED thruster_right_big.wpn
+11 May 2017 23:34:27 : LOADED thruster_right_big_blue.wpn
+11 May 2017 23:34:27 : LOADED thruster_right_blue.wpn
+11 May 2017 23:34:27 : LOADED tpc.wpn
+11 May 2017 23:34:27 : LOADED typhoon.wpn
+11 May 2017 23:34:27 : LOADED vulcan.wpn
+11 May 2017 23:34:27 : LOADED vulcan2.wpn
+11 May 2017 23:34:27 : Enum  electricFlare  (ship.engine.styleId)
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : Enum  exigencyEngine  (ship.engine.styleId)
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : Enum  highlinerFlare  (ship.engine.styleId)
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : Enum  leftjet  (ship.engine.styleId)
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : Enum  pirateFlare  (ship.engine.styleId)
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : Enum  rightjet  (ship.engine.styleId)
+11 May 2017 23:34:27 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:27 : LOADED ship_data.csv
+11 May 2017 23:34:27 : LOADED wing_data.csv
+11 May 2017 23:34:27 : LOADED weapon_data.csv
+11 May 2017 23:34:27 : LOADED hull_mods.csv
+11 May 2017 23:34:27 : Loading MOD Data: C:\Games\Starsector\mods\Vacuum/
+11 May 2017 23:34:27 : LOADED acanthus.ship
+11 May 2017 23:34:27 : LOADED afflictor.ship
+11 May 2017 23:34:27 : LOADED apogee.ship
+11 May 2017 23:34:27 : LOADED astral.ship
+11 May 2017 23:34:27 : LOADED atlas.ship
+11 May 2017 23:34:27 : LOADED aurora.ship
+11 May 2017 23:34:27 : LOADED black_eagle.ship
+11 May 2017 23:34:27 : LOADED blade.ship
+11 May 2017 23:34:27 : LOADED boarding_shuttle.ship
+11 May 2017 23:34:27 : LOADED boom.ship
+11 May 2017 23:34:27 : LOADED brawler.ship
+11 May 2017 23:34:27 : LOADED broadsword.ship
+11 May 2017 23:34:27 : LOADED brute.ship
+11 May 2017 23:34:27 : LOADED buffalo.ship
+11 May 2017 23:34:27 : LOADED buffalo2.ship
+11 May 2017 23:34:27 : LOADED calypso.ship
+11 May 2017 23:34:27 : LOADED cataphract.ship
+11 May 2017 23:34:27 : LOADED chiron.ship
+11 May 2017 23:34:27 : LOADED cleaver.ship
+11 May 2017 23:34:27 : LOADED clover.ship
+11 May 2017 23:34:27 : LOADED condor.ship
+11 May 2017 23:34:27 : LOADED conquest.ship
+11 May 2017 23:34:27 : LOADED crasher.ship
+11 May 2017 23:34:27 : LOADED crow.ship
+11 May 2017 23:34:27 : LOADED crystalline.ship
+11 May 2017 23:34:27 : LOADED dachsund.ship
+11 May 2017 23:34:27 : LOADED dagger.ship
+11 May 2017 23:34:27 : LOADED dahkan.ship
+11 May 2017 23:34:27 : LOADED daisho.ship
+11 May 2017 23:34:27 : LOADED delta.ship
+11 May 2017 23:34:27 : LOADED demander.ship
+11 May 2017 23:34:27 : LOADED dirk.ship
+11 May 2017 23:34:27 : LOADED dominator.ship
+11 May 2017 23:34:27 : LOADED doom.ship
+11 May 2017 23:34:27 : LOADED dram.ship
+11 May 2017 23:34:27 : LOADED drone_assault.ship
+11 May 2017 23:34:27 : LOADED drone_miner.ship
+11 May 2017 23:34:27 : LOADED drone_pd.ship
+11 May 2017 23:34:27 : LOADED drone_pd_midline.ship
+11 May 2017 23:34:27 : LOADED drone_sensor.ship
+11 May 2017 23:34:27 : LOADED eagle.ship
+11 May 2017 23:34:27 : LOADED eisenstein.ship
+11 May 2017 23:34:27 : LOADED enforcer.ship
+11 May 2017 23:34:27 : LOADED excelsior.ship
+11 May 2017 23:34:27 : LOADED exigency_carrier.ship
+11 May 2017 23:34:27 : LOADED exigency_cruiser.ship
+11 May 2017 23:34:27 : LOADED exigency_glynado.ship
+11 May 2017 23:34:27 : LOADED exigency_sidecar.ship
+11 May 2017 23:34:27 : LOADED exigency_yria.ship
+11 May 2017 23:34:27 : LOADED falcata_carrier.ship
+11 May 2017 23:34:27 : LOADED falcon.ship
+11 May 2017 23:34:27 : LOADED fs_carson.ship
+11 May 2017 23:34:27 : LOADED fs_cousteau.ship
+11 May 2017 23:34:27 : LOADED fs_muir.ship
+11 May 2017 23:34:27 : LOADED fusilier.ship
+11 May 2017 23:34:27 : LOADED gemini.ship
+11 May 2017 23:34:27 : LOADED gladius.ship
+11 May 2017 23:34:27 : LOADED glasgow.ship
+11 May 2017 23:34:27 : LOADED glaug_bat.ship
+11 May 2017 23:34:27 : LOADED glaug_battleship.ship
+11 May 2017 23:34:27 : LOADED glaug_burrower.ship
+11 May 2017 23:34:27 : LOADED glaug_catcher.ship
+11 May 2017 23:34:27 : LOADED glaug_cruiser.ship
+11 May 2017 23:34:27 : LOADED glaug_deathfrog.ship
+11 May 2017 23:34:27 : LOADED glaug_flea.ship
+11 May 2017 23:34:27 : LOADED glaug_flyter.ship
+11 May 2017 23:34:27 : LOADED glaug_frigate.ship
+11 May 2017 23:34:27 : LOADED glaug_gnat.ship
+11 May 2017 23:34:27 : LOADED glaug_gnawler.ship
+11 May 2017 23:34:27 : LOADED glaug_haunter.ship
+11 May 2017 23:34:27 : LOADED glaug_mantabee.ship
+11 May 2017 23:34:27 : LOADED glaug_songbird.ship
+11 May 2017 23:34:27 : LOADED glaug_swimmer.ship
+11 May 2017 23:34:27 : LOADED glaug_troll.ship
+11 May 2017 23:34:27 : LOADED grey_death.ship
+11 May 2017 23:34:27 : LOADED hammerhead.ship
+11 May 2017 23:34:27 : LOADED hauler.ship
+11 May 2017 23:34:27 : LOADED hermes.ship
+11 May 2017 23:34:27 : LOADED hound.ship
+11 May 2017 23:34:27 : LOADED hugefleet.ship
+11 May 2017 23:34:27 : LOADED hunter.ship
+11 May 2017 23:34:27 : LOADED hyperion.ship
+11 May 2017 23:34:27 : LOADED inferno.ship
+11 May 2017 23:34:27 : LOADED jean_station.ship
+11 May 2017 23:34:27 : LOADED kanjar.ship
+11 May 2017 23:34:27 : LOADED lancer.ship
+11 May 2017 23:34:27 : LOADED largefleet.ship
+11 May 2017 23:34:27 : LOADED lasher.ship
+11 May 2017 23:34:27 : LOADED launcher.ship
+11 May 2017 23:34:27 : LOADED llama.ship
+11 May 2017 23:34:27 : LOADED longbow.ship
+11 May 2017 23:34:27 : LOADED macuahuitl.ship
+11 May 2017 23:34:27 : LOADED magister.ship
+11 May 2017 23:34:27 : LOADED marlene_station.ship
+11 May 2017 23:34:27 : LOADED mastiff.ship
+11 May 2017 23:34:27 : LOADED maxim.ship
+11 May 2017 23:34:27 : LOADED medfleet.ship
+11 May 2017 23:34:27 : LOADED medusa.ship
+11 May 2017 23:34:27 : LOADED mining_drone.ship
+11 May 2017 23:34:27 : LOADED mule.ship
+11 May 2017 23:34:27 : LOADED nautilus.ship
+11 May 2017 23:34:27 : LOADED odyssey.ship
+11 May 2017 23:34:27 : LOADED omen.ship
+11 May 2017 23:34:27 : LOADED onslaught.ship
+11 May 2017 23:34:27 : LOADED paragon.ship
+11 May 2017 23:34:27 : LOADED patton.ship
+11 May 2017 23:34:27 : LOADED peashooter.ship
+11 May 2017 23:34:27 : LOADED pelican.ship
+11 May 2017 23:34:27 : LOADED phaeton.ship
+11 May 2017 23:34:27 : LOADED phalanx.ship
+11 May 2017 23:34:27 : LOADED piranha.ship
+11 May 2017 23:34:27 : LOADED pj_archer.ship
+11 May 2017 23:34:27 : LOADED pj_duke.ship
+11 May 2017 23:34:27 : LOADED pj_earl.ship
+11 May 2017 23:34:27 : LOADED pj_knight.ship
+11 May 2017 23:34:27 : LOADED pj_queen.ship
+11 May 2017 23:34:27 : LOADED pj_squire.ship
+11 May 2017 23:34:27 : LOADED plantain.ship
+11 May 2017 23:34:27 : LOADED quetzalcoatl.ship
+11 May 2017 23:34:27 : LOADED ranger.ship
+11 May 2017 23:34:27 : LOADED red_tail.ship
+11 May 2017 23:34:27 : LOADED scimitar.ship
+11 May 2017 23:34:27 : LOADED scythus.ship
+11 May 2017 23:34:27 : LOADED shade.ship
+11 May 2017 23:34:27 : LOADED shrike.ship
+11 May 2017 23:34:27 : LOADED shuttle.ship
+11 May 2017 23:34:27 : LOADED shuttlepod.ship
+11 May 2017 23:34:27 : LOADED silent_raven.ship
+11 May 2017 23:34:27 : LOADED smallfleet.ship
+11 May 2017 23:34:27 : LOADED sparrowhawk.ship
+11 May 2017 23:34:27 : LOADED spearhead.ship
+11 May 2017 23:34:27 : LOADED spector_viii.ship
+11 May 2017 23:34:27 : LOADED speeder.ship
+11 May 2017 23:34:27 : LOADED stratos.ship
+11 May 2017 23:34:27 : LOADED striker.ship
+11 May 2017 23:34:27 : LOADED sunder.ship
+11 May 2017 23:34:27 : LOADED swift.ship
+11 May 2017 23:34:27 : LOADED swordfish_2.ship
+11 May 2017 23:34:27 : LOADED talon.ship
+11 May 2017 23:34:27 : LOADED tarsus.ship
+11 May 2017 23:34:27 : LOADED tempest.ship
+11 May 2017 23:34:27 : LOADED thunder.ship
+11 May 2017 23:34:27 : LOADED trident.ship
+11 May 2017 23:34:27 : LOADED tyr.ship
+11 May 2017 23:34:27 : LOADED valkyrie.ship
+11 May 2017 23:34:27 : LOADED vendetta.ship
+11 May 2017 23:34:28 : LOADED venture.ship
+11 May 2017 23:34:28 : LOADED vfleet_farmstead.ship
+11 May 2017 23:34:28 : LOADED vfleet_packer.ship
+11 May 2017 23:34:28 : LOADED vigilance.ship
+11 May 2017 23:34:28 : LOADED warthog.ship
+11 May 2017 23:34:28 : LOADED wasp.ship
+11 May 2017 23:34:28 : LOADED wolf.ship
+11 May 2017 23:34:28 : LOADED xyphos.ship
+11 May 2017 23:34:28 : LOADED acanthus_Standard.variant
+11 May 2017 23:34:28 : LOADED afflictor_Standard.variant
+11 May 2017 23:34:28 : LOADED afflictor_Strike.variant
+11 May 2017 23:34:28 : LOADED apogee_Standard.variant
+11 May 2017 23:34:28 : LOADED astral_Standard.variant
+11 May 2017 23:34:28 : LOADED atlas_Standard.variant
+11 May 2017 23:34:28 : LOADED aurora_Standard.variant
+11 May 2017 23:34:28 : LOADED black_eagle_Standard.variant
+11 May 2017 23:34:28 : LOADED blade_Standard.variant
+11 May 2017 23:34:28 : LOADED boom_Standard.variant
+11 May 2017 23:34:28 : LOADED brawler_Assault.variant
+11 May 2017 23:34:28 : LOADED brawler_Assaulttest.variant
+11 May 2017 23:34:28 : LOADED brawler_Standard.variant
+11 May 2017 23:34:28 : LOADED brawler_Starting.variant
+11 May 2017 23:34:28 : LOADED brute_Standard.variant
+11 May 2017 23:34:28 : LOADED buffalo2_Standard.variant
+11 May 2017 23:34:28 : LOADED buffalo_Standard.variant
+11 May 2017 23:34:28 : LOADED calypso_Standard.variant
+11 May 2017 23:34:28 : LOADED cataphract_Standard.variant
+11 May 2017 23:34:28 : LOADED chiron_Standard.variant
+11 May 2017 23:34:28 : LOADED cleaver_Standard.variant
+11 May 2017 23:34:28 : LOADED clover_Standard.variant
+11 May 2017 23:34:28 : LOADED condor_Standard.variant
+11 May 2017 23:34:28 : LOADED condor_Strike.variant
+11 May 2017 23:34:28 : LOADED conquest_Elite.variant
+11 May 2017 23:34:28 : LOADED conquest_Standard.variant
+11 May 2017 23:34:28 : LOADED crasher_Standard.variant
+11 May 2017 23:34:28 : LOADED crow_Standard.variant
+11 May 2017 23:34:28 : LOADED crystalline_Standard.variant
+11 May 2017 23:34:28 : LOADED dachsund_Standard.variant
+11 May 2017 23:34:28 : LOADED dahkan_Standard.variant
+11 May 2017 23:34:28 : LOADED daisho_Standard.variant
+11 May 2017 23:34:28 : LOADED demander_Standard.variant
+11 May 2017 23:34:28 : LOADED dirk_Standard.variant
+11 May 2017 23:34:28 : LOADED dominator_Outdated.variant
+11 May 2017 23:34:28 : LOADED dominator_Standard.variant
+11 May 2017 23:34:28 : LOADED dominator_Support.variant
+11 May 2017 23:34:28 : LOADED doom_Standard.variant
+11 May 2017 23:34:28 : LOADED dram_Standard.variant
+11 May 2017 23:34:28 : LOADED eagle_Standard.variant
+11 May 2017 23:34:28 : LOADED eisenstein_Standard.variant
+11 May 2017 23:34:28 : LOADED enforcer_Balanced.variant
+11 May 2017 23:34:28 : LOADED enforcer_CS.variant
+11 May 2017 23:34:28 : LOADED enforcer_Outdated.variant
+11 May 2017 23:34:28 : LOADED enforcer_Standard.variant
+11 May 2017 23:34:28 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:28 : LOADED enforcer_Support.variant
+11 May 2017 23:34:28 : [WARN] could not find field name mods in object of type TStarfarerVariant
+11 May 2017 23:34:28 : LOADED excelsior_Standard.variant
+11 May 2017 23:34:28 : LOADED exigency_carrier_Standard.variant
+11 May 2017 23:34:28 : LOADED exigency_cruiser_Standard.variant
+11 May 2017 23:34:28 : LOADED exigency_yria_Standard.variant
+11 May 2017 23:34:28 : LOADED falcata_carrier_Standard.variant
+11 May 2017 23:34:28 : LOADED falcon_Attack.variant
+11 May 2017 23:34:28 : LOADED falcon_CS.variant
+11 May 2017 23:34:28 : LOADED falcon_Standard.variant
+11 May 2017 23:34:28 : LOADED fs_carson_Standard.variant
+11 May 2017 23:34:28 : LOADED fusilier_Standard.variant
+11 May 2017 23:34:28 : LOADED gemini_Standard.variant
+11 May 2017 23:34:28 : LOADED glasgow_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_battleship_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_bat_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_burrower_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_catcher_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_cruiser_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_deathfrog_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_frigate_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_haunter_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_mantabee_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_swimmer_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_troll_Standard.variant
+11 May 2017 23:34:28 : LOADED grey_death_Standard.variant
+11 May 2017 23:34:28 : LOADED hammerhead_Elite.variant
+11 May 2017 23:34:28 : LOADED hammerhead_Standard.variant
+11 May 2017 23:34:28 : LOADED hauler_Standard.variant
+11 May 2017 23:34:28 : LOADED hermes_Standard.variant
+11 May 2017 23:34:28 : LOADED hound_Standard.variant
+11 May 2017 23:34:28 : LOADED hugefleet_Standard.variant
+11 May 2017 23:34:28 : LOADED hunter_Standard.variant
+11 May 2017 23:34:28 : LOADED hyperion_Standard.variant
+11 May 2017 23:34:28 : LOADED hyperion_Strike.variant
+11 May 2017 23:34:28 : LOADED inferno_Standard.variant
+11 May 2017 23:34:28 : LOADED jean_station_AI.variant
+11 May 2017 23:34:28 : LOADED jean_station_Standard.variant
+11 May 2017 23:34:28 : LOADED lancer_Standard.variant
+11 May 2017 23:34:28 : LOADED largefleet_Standard.variant
+11 May 2017 23:34:28 : LOADED lasher_Assault.variant
+11 May 2017 23:34:28 : LOADED lasher_CS.variant
+11 May 2017 23:34:28 : LOADED lasher_PD.variant
+11 May 2017 23:34:28 : LOADED lasher_Standard.variant
+11 May 2017 23:34:28 : LOADED lasher_Starting.variant
+11 May 2017 23:34:28 : LOADED lasher_Strike.variant
+11 May 2017 23:34:28 : LOADED launcher_Standard.variant
+11 May 2017 23:34:28 : LOADED llama_Standard.variant
+11 May 2017 23:34:28 : LOADED macuahuitl_Standard.variant
+11 May 2017 23:34:28 : LOADED magister_Standard.variant
+11 May 2017 23:34:28 : LOADED marlene_station_Standard.variant
+11 May 2017 23:34:28 : LOADED mastiff_Standard.variant
+11 May 2017 23:34:28 : LOADED maxim_Standard.variant
+11 May 2017 23:34:28 : LOADED medfleet_Standard.variant
+11 May 2017 23:34:28 : LOADED medusa_Standard.variant
+11 May 2017 23:34:28 : LOADED mule_Standard.variant
+11 May 2017 23:34:28 : LOADED nautilus_Standard.variant
+11 May 2017 23:34:28 : LOADED odyssey_Standard.variant
+11 May 2017 23:34:28 : LOADED omen_Standard.variant
+11 May 2017 23:34:28 : LOADED onslaught_Elite.variant
+11 May 2017 23:34:28 : LOADED onslaught_Outdated.variant
+11 May 2017 23:34:28 : LOADED onslaught_Standard.variant
+11 May 2017 23:34:28 : LOADED paragon_Standard.variant
+11 May 2017 23:34:28 : LOADED patton_Standard.variant
+11 May 2017 23:34:28 : LOADED pelican_Standard.variant
+11 May 2017 23:34:28 : LOADED phaeton_Standard.variant
+11 May 2017 23:34:28 : LOADED phalanx_Standard.variant
+11 May 2017 23:34:28 : LOADED pj_archer_Standard.variant
+11 May 2017 23:34:28 : LOADED pj_duke_Standard.variant
+11 May 2017 23:34:28 : LOADED pj_earl_Standard.variant
+11 May 2017 23:34:28 : LOADED pj_knight_Standard.variant
+11 May 2017 23:34:28 : LOADED pj_queen_Standard.variant
+11 May 2017 23:34:28 : LOADED plantain_Standard.variant
+11 May 2017 23:34:28 : LOADED quetzalcoatl_Standard.variant
+11 May 2017 23:34:28 : LOADED red_tail_Standard.variant
+11 May 2017 23:34:28 : LOADED scimitar_Standard.variant
+11 May 2017 23:34:28 : LOADED scythus_Standard.variant
+11 May 2017 23:34:28 : LOADED shade_Standard.variant
+11 May 2017 23:34:28 : LOADED shrike_Standard.variant
+11 May 2017 23:34:28 : LOADED shuttle_Standard.variant
+11 May 2017 23:34:28 : LOADED silent_raven_Standard.variant
+11 May 2017 23:34:28 : LOADED smallfleet_Standard.variant
+11 May 2017 23:34:28 : LOADED sparrowhawk_Standard.variant
+11 May 2017 23:34:28 : LOADED spearhead_Standard.variant
+11 May 2017 23:34:28 : LOADED spector_viii_Standard.variant
+11 May 2017 23:34:28 : LOADED speeder_Standard.variant
+11 May 2017 23:34:28 : LOADED stratos_Standard.variant
+11 May 2017 23:34:28 : LOADED striker_Standard.variant
+11 May 2017 23:34:28 : LOADED sunder_Standard.variant
+11 May 2017 23:34:28 : LOADED swift_Standard.variant
+11 May 2017 23:34:28 : LOADED swordfish_2_Standard.variant
+11 May 2017 23:34:28 : LOADED tarsus_Standard.variant
+11 May 2017 23:34:28 : LOADED tempest_Balanced.variant
+11 May 2017 23:34:28 : LOADED tempest_Standard.variant
+11 May 2017 23:34:28 : LOADED tyr_Standard.variant
+11 May 2017 23:34:28 : LOADED valkyrie_Standard.variant
+11 May 2017 23:34:28 : LOADED venture_Standard.variant
+11 May 2017 23:34:28 : LOADED vfleet_farmstead_Standard.variant
+11 May 2017 23:34:28 : LOADED vfleet_packer_Standard.variant
+11 May 2017 23:34:28 : LOADED vigilance_AP.variant
+11 May 2017 23:34:28 : LOADED vigilance_FS.variant
+11 May 2017 23:34:28 : LOADED vigilance_Standard.variant
+11 May 2017 23:34:28 : LOADED vigilance_Starting.variant
+11 May 2017 23:34:28 : LOADED vigilance_Strike.variant
+11 May 2017 23:34:28 : LOADED wolf_CS.variant
+11 May 2017 23:34:28 : LOADED wolf_PD.variant
+11 May 2017 23:34:28 : LOADED wolf_Standard.variant
+11 May 2017 23:34:28 : LOADED wolf_Starting.variant
+11 May 2017 23:34:28 : LOADED wolf_Strike.variant
+11 May 2017 23:34:28 : LOADED boarding_shuttle_Standard.variant
+11 May 2017 23:34:28 : LOADED broadsword_Fighter.variant
+11 May 2017 23:34:28 : LOADED dagger_Bomber.variant
+11 May 2017 23:34:28 : LOADED delta_Standard.variant
+11 May 2017 23:34:28 : LOADED exigency_glynado_Standard.variant
+11 May 2017 23:34:28 : LOADED exigency_sidecar_Standard.variant
+11 May 2017 23:34:28 : LOADED gladius_Fighter.variant
+11 May 2017 23:34:28 : LOADED glaug_bat_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_flyter_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_gnawler_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_songbird_Standard.variant
+11 May 2017 23:34:28 : LOADED kanjar_Standard.variant
+11 May 2017 23:34:28 : LOADED longbow_Support.variant
+11 May 2017 23:34:28 : LOADED mining_drone_Standard.variant
+11 May 2017 23:34:28 : LOADED peashooter_Standard.variant
+11 May 2017 23:34:28 : LOADED piranha_Bomber.variant
+11 May 2017 23:34:28 : LOADED pj_squire_Standard.variant
+11 May 2017 23:34:28 : LOADED ranger_Standard.variant
+11 May 2017 23:34:28 : LOADED talon_Interceptor.variant
+11 May 2017 23:34:28 : LOADED thunder_Fighter.variant
+11 May 2017 23:34:28 : LOADED trident_Bomber.variant
+11 May 2017 23:34:28 : LOADED vendetta_Standard.variant
+11 May 2017 23:34:28 : LOADED warthog_Fighter.variant
+11 May 2017 23:34:28 : LOADED wasp_Interceptor.variant
+11 May 2017 23:34:28 : LOADED xyphos_Fighter.variant
+11 May 2017 23:34:28 : LOADED drone_assault.variant
+11 May 2017 23:34:28 : LOADED drone_miner_Standard.variant
+11 May 2017 23:34:28 : LOADED drone_pd.variant
+11 May 2017 23:34:28 : LOADED drone_pd_midline.variant
+11 May 2017 23:34:28 : LOADED drone_sensor.variant
+11 May 2017 23:34:28 : LOADED glaug_flea_Standard.variant
+11 May 2017 23:34:28 : LOADED glaug_gnat_Standard.variant
+11 May 2017 23:34:28 : LOADED amblaster.wpn
+11 May 2017 23:34:28 : LOADED annihilator.wpn
+11 May 2017 23:34:28 : LOADED annihilatorpod.wpn
+11 May 2017 23:34:28 : LOADED anroc.wpn
+11 May 2017 23:34:28 : LOADED arbalest.wpn
+11 May 2017 23:34:28 : LOADED atropos.wpn
+11 May 2017 23:34:28 : LOADED atropos_single.wpn
+11 May 2017 23:34:28 : LOADED autopulse.wpn
+11 May 2017 23:34:28 : LOADED boarding_shuttle_gun.wpn
+11 May 2017 23:34:28 : LOADED bomb.wpn
+11 May 2017 23:34:28 : LOADED chaingun.wpn
+11 May 2017 23:34:28 : LOADED clover_launcher.wpn
+11 May 2017 23:34:28 : LOADED clusterbomb.wpn
+11 May 2017 23:34:28 : LOADED cyclone.wpn
+11 May 2017 23:34:28 : LOADED dualflak.wpn
+11 May 2017 23:34:28 : LOADED exigency_bb_torp.wpn
+11 May 2017 23:34:28 : LOADED exigency_lightning_gun.wpn
+11 May 2017 23:34:28 : LOADED exigency_mmm.wpn
+11 May 2017 23:34:28 : LOADED exigency_mmm_1.wpn
+11 May 2017 23:34:28 : LOADED exigency_mmm_2.wpn
+11 May 2017 23:34:28 : LOADED exigency_mmm_f.wpn
+11 May 2017 23:34:28 : LOADED exigency_mmm_f1.wpn
+11 May 2017 23:34:28 : LOADED exigency_mmm_f2.wpn
+11 May 2017 23:34:28 : LOADED exigency_repulsor_beam.wpn
+11 May 2017 23:34:28 : LOADED exigency_rr.wpn
+11 May 2017 23:34:28 : LOADED exigency_sabot_pd.wpn
+11 May 2017 23:34:28 : LOADED exigency_vindictive.wpn
+11 May 2017 23:34:28 : LOADED flak.wpn
+11 May 2017 23:34:28 : LOADED fragbomb.wpn
+11 May 2017 23:34:28 : LOADED freezeray.wpn
+11 May 2017 23:34:28 : LOADED gauss.wpn
+11 May 2017 23:34:28 : LOADED glaug_cluster_launcher.wpn
+11 May 2017 23:34:28 : LOADED glaug_pd.wpn
+11 May 2017 23:34:28 : LOADED glaug_shard_gun.wpn
+11 May 2017 23:34:28 : LOADED glaug_spore_gun_large.wpn
+11 May 2017 23:34:28 : LOADED glaug_spore_gun_medium.wpn
+11 May 2017 23:34:28 : LOADED glaug_thermal_gun.wpn
+11 May 2017 23:34:28 : LOADED glaug_trilaser.wpn
+11 May 2017 23:34:28 : LOADED gravitonbeam.wpn
+11 May 2017 23:34:28 : LOADED guardian.wpn
+11 May 2017 23:34:28 : LOADED harpoon.wpn
+11 May 2017 23:34:28 : LOADED harpoonpod.wpn
+11 May 2017 23:34:28 : LOADED harpoon_single.wpn
+11 May 2017 23:34:28 : LOADED heatseeker.wpn
+11 May 2017 23:34:28 : LOADED heavyac.wpn
+11 May 2017 23:34:28 : LOADED heavyag.wpn
+11 May 2017 23:34:28 : LOADED heavyblaster.wpn
+11 May 2017 23:34:28 : LOADED heavyburst.wpn
+11 May 2017 23:34:28 : LOADED heavymauler.wpn
+11 May 2017 23:34:28 : LOADED heavymg.wpn
+11 May 2017 23:34:28 : LOADED heavyneedler.wpn
+11 May 2017 23:34:28 : LOADED heavyplasma.wpn
+11 May 2017 23:34:28 : LOADED heavy_annihilator.wpn
+11 May 2017 23:34:28 : LOADED heavy_bolter.wpn
+11 May 2017 23:34:28 : LOADED hellbore.wpn
+11 May 2017 23:34:28 : LOADED hephag.wpn
+11 May 2017 23:34:28 : LOADED hil.wpn
+11 May 2017 23:34:28 : LOADED hurricane.wpn
+11 May 2017 23:34:28 : LOADED hveldriver.wpn
+11 May 2017 23:34:28 : LOADED interdictorbeam.wpn
+11 May 2017 23:34:28 : LOADED ioncannon.wpn
+11 May 2017 23:34:28 : LOADED irpulse.wpn
+11 May 2017 23:34:28 : LOADED lightac.wpn
+11 May 2017 23:34:28 : LOADED lightag.wpn
+11 May 2017 23:34:28 : LOADED lightdualac.wpn
+11 May 2017 23:34:28 : LOADED lightdualmg.wpn
+11 May 2017 23:34:28 : LOADED lightmg.wpn
+11 May 2017 23:34:28 : LOADED lightmortar.wpn
+11 May 2017 23:34:28 : LOADED lightneedler.wpn
+11 May 2017 23:34:28 : LOADED lrpdlaser.wpn
+11 May 2017 23:34:28 : LOADED mark9.wpn
+11 May 2017 23:34:28 : LOADED medlaser.wpn
+11 May 2017 23:34:28 : LOADED megabeam.wpn
+11 May 2017 23:34:28 : LOADED melter.wpn
+11 May 2017 23:34:28 : LOADED millenium.wpn
+11 May 2017 23:34:28 : LOADED miningblaster.wpn
+11 May 2017 23:34:28 : LOADED mininglaser.wpn
+11 May 2017 23:34:28 : LOADED mjolnir.wpn
+11 May 2017 23:34:28 : LOADED multineedler.wpn
+11 May 2017 23:34:28 : LOADED neutron_blaster.wpn
+11 May 2017 23:34:28 : LOADED neutron_cannon.wpn
+11 May 2017 23:34:28 : LOADED pdburst.wpn
+11 May 2017 23:34:28 : LOADED pdlaser.wpn
+11 May 2017 23:34:28 : LOADED phasebeam.wpn
+11 May 2017 23:34:28 : LOADED pilum.wpn
+11 May 2017 23:34:28 : LOADED plasma.wpn
+11 May 2017 23:34:28 : LOADED plasma_blaster.wpn
+11 May 2017 23:34:28 : LOADED plasma_triple_blaster.wpn
+11 May 2017 23:34:28 : LOADED proximity_charge_clone.wpn
+11 May 2017 23:34:28 : LOADED proximity_charge_launcher.wpn
+11 May 2017 23:34:28 : LOADED pulselaser.wpn
+11 May 2017 23:34:28 : LOADED railgun.wpn
+11 May 2017 23:34:28 : LOADED reaper.wpn
+11 May 2017 23:34:28 : LOADED sabot.wpn
+11 May 2017 23:34:28 : LOADED sabotpod.wpn
+11 May 2017 23:34:28 : LOADED sabot_single.wpn
+11 May 2017 23:34:28 : LOADED salamanderpod.wpn
+11 May 2017 23:34:28 : LOADED shredder.wpn
+11 May 2017 23:34:28 : LOADED slammer.wpn
+11 May 2017 23:34:28 : LOADED slammer_dual_turret.wpn
+11 May 2017 23:34:28 : LOADED slugger.wpn
+11 May 2017 23:34:28 : LOADED slugthrower.wpn
+11 May 2017 23:34:28 : LOADED swarmer.wpn
+11 May 2017 23:34:28 : LOADED swarmerpod.wpn
+11 May 2017 23:34:28 : LOADED sweeper.wpn
+11 May 2017 23:34:28 : LOADED sweeper_clone.wpn
+11 May 2017 23:34:28 : LOADED swift_launcher.wpn
+11 May 2017 23:34:28 : LOADED tachyonlance.wpn
+11 May 2017 23:34:28 : LOADED taclaser.wpn
+11 May 2017 23:34:28 : LOADED thruster_fighter_sm_blue.wpn
+11 May 2017 23:34:28 : LOADED thruster_fighter_sm_green.wpn
+11 May 2017 23:34:28 : LOADED thruster_fighter_sm_orange.wpn
+11 May 2017 23:34:28 : LOADED thruster_fighter_sm_purple.wpn
+11 May 2017 23:34:28 : LOADED thruster_flare.wpn
+11 May 2017 23:34:28 : LOADED thruster_left.wpn
+11 May 2017 23:34:28 : LOADED thruster_left_big.wpn
+11 May 2017 23:34:28 : LOADED thruster_left_big_blue.wpn
+11 May 2017 23:34:28 : LOADED thruster_left_blue.wpn
+11 May 2017 23:34:28 : LOADED thruster_right.wpn
+11 May 2017 23:34:28 : LOADED thruster_right_big.wpn
+11 May 2017 23:34:28 : LOADED thruster_right_big_blue.wpn
+11 May 2017 23:34:28 : LOADED thruster_right_blue.wpn
+11 May 2017 23:34:28 : LOADED tpc.wpn
+11 May 2017 23:34:28 : LOADED typhoon.wpn
+11 May 2017 23:34:28 : LOADED vulcan.wpn
+11 May 2017 23:34:28 : LOADED vulcan2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : LOADED ship_data.csv
+11 May 2017 23:34:28 : LOADED wing_data.csv
+11 May 2017 23:34:28 : LOADED weapon_data.csv
+11 May 2017 23:34:28 : LOADED hull_mods.csv
+11 May 2017 23:34:28 : Loading MOD Data: C:\Games\Starsector08a\mods\BGE/
+11 May 2017 23:34:28 : LOADED bge_arbiter.ship
+11 May 2017 23:34:28 : LOADED bge_brut.ship
+11 May 2017 23:34:28 : LOADED bge_flusskrebs.ship
+11 May 2017 23:34:28 : LOADED bge_gewalt.ship
+11 May 2017 23:34:28 : LOADED bge_hass.ship
+11 May 2017 23:34:28 : LOADED bge_hornisse.ship
+11 May 2017 23:34:28 : LOADED bge_koenig.ship
+11 May 2017 23:34:28 : LOADED bge_krieger.ship
+11 May 2017 23:34:28 : LOADED bge_mord_drone.ship
+11 May 2017 23:34:28 : LOADED bge_mut.ship
+11 May 2017 23:34:28 : LOADED bge_nymphe.ship
+11 May 2017 23:34:28 : LOADED bge_rache.ship
+11 May 2017 23:34:28 : LOADED bge_trauer.ship
+11 May 2017 23:34:28 : LOADED bge_vergifter.ship
+11 May 2017 23:34:28 : LOADED bge_verzweiflung.ship
+11 May 2017 23:34:28 : LOADED bge_waechter.ship
+11 May 2017 23:34:28 : LOADED bge_zophe.ship
+11 May 2017 23:34:28 : LOADED bge_zorn.ship
+11 May 2017 23:34:28 : LOADED bge_arbiter_siege.variant
+11 May 2017 23:34:28 : LOADED bge_arbiter_standard.variant
+11 May 2017 23:34:28 : LOADED bge_brut_drone.variant
+11 May 2017 23:34:28 : LOADED bge_flusskrebs_siege.variant
+11 May 2017 23:34:28 : LOADED bge_flusskrebs_standard.variant
+11 May 2017 23:34:28 : LOADED bge_gewalt_standard.variant
+11 May 2017 23:34:28 : LOADED bge_hass_standard.variant
+11 May 2017 23:34:28 : LOADED bge_koenig_siege.variant
+11 May 2017 23:34:28 : LOADED bge_koenig_standard.variant
+11 May 2017 23:34:28 : LOADED bge_krieger_standard.variant
+11 May 2017 23:34:28 : LOADED bge_mord_drone_standard.variant
+11 May 2017 23:34:28 : LOADED bge_mut_standard.variant
+11 May 2017 23:34:28 : LOADED bge_rache_standard.variant
+11 May 2017 23:34:28 : LOADED bge_trauer_standard.variant
+11 May 2017 23:34:28 : LOADED bge_vergifter_standard.variant
+11 May 2017 23:34:28 : LOADED bge_verzweiflung_standard.variant
+11 May 2017 23:34:28 : LOADED bge_waechter_siege.variant
+11 May 2017 23:34:28 : LOADED bge_waechter_standard.variant
+11 May 2017 23:34:28 : LOADED bge_zophe_siege.variant
+11 May 2017 23:34:28 : LOADED bge_zophe_standard.variant
+11 May 2017 23:34:28 : LOADED bge_zorn_standard.variant
+11 May 2017 23:34:28 : LOADED bge_hornisse_standard.variant
+11 May 2017 23:34:28 : LOADED bge_nymphe_standard.variant
+11 May 2017 23:34:28 : LOADED acidthrower.wpn
+11 May 2017 23:34:28 : LOADED adv_lrg_mand.wpn
+11 May 2017 23:34:28 : LOADED adv_lrg_scythe.wpn
+11 May 2017 23:34:28 : LOADED adv_med_scythe.wpn
+11 May 2017 23:34:28 : LOADED adv_sml_mand.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED antena_left.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED antena_right.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Arbiter.wpn
+11 May 2017 23:34:28 : LOADED bge_grappler.wpn
+11 May 2017 23:34:28 : LOADED bge_grappler_pd.wpn
+11 May 2017 23:34:28 : LOADED bge_mini_grappler.wpn
+11 May 2017 23:34:28 : LOADED bge_mord_grappler.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_left_huge.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_left_large.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_left_medium.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_left_small.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_left_tiny.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_right_huge.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_right_large.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_right_medium.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_right_small.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED dark_fin_right_tiny.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED deco_feeler_l.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED deco_feeler_r.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Flusskrebs.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Gewalt.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Koenig.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED koenigfinleft.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED koenigfinright.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED koenig_eyes.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED koenig_shell_left.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED koenig_shell_right.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Krieger.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED long_fin_left.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED long_fin_left2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED long_fin_left_sml.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED long_fin_left_sml2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED long_fin_right.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED long_fin_right2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED long_fin_right_sml.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED long_fin_right_sml2.wpn
+11 May 2017 23:34:28 : LOADED lrg_mand.wpn
+11 May 2017 23:34:28 : LOADED lrg_pincer.wpn
+11 May 2017 23:34:28 : LOADED lrg_scythe.wpn
+11 May 2017 23:34:28 : LOADED med_pincer.wpn
+11 May 2017 23:34:28 : LOADED med_scythe.wpn
+11 May 2017 23:34:28 : LOADED projectile_weapon.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Rache.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Rache_head.wpn
+11 May 2017 23:34:28 : LOADED sml_mand.wpn
+11 May 2017 23:34:28 : LOADED spawner.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED stinger_left.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED stinger_right.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_gargantuan.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_gargantuan_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_huge.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_huge_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_huge_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_large.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_large_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_large_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_medium.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_medium_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_medium_barbed_short.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_medium_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_micro_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_small.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_small_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_small_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_tiny.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_tiny_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_left_tiny_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_gargantuan.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_gargantuan_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_huge.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_huge_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_huge_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_large.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_large_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_large_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_medium.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_medium_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_medium_barbed_short.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_medium_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_micro_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_small.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_small_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_small_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_tiny.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_tiny_barbed.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED tentacle_right_tiny_dark.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED trans_fin_left.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED trans_fin_left2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED trans_fin_left_sml.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED trans_fin_left_sml2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED trans_fin_right.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED trans_fin_right2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED trans_fin_right_sml.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED trans_fin_right_sml2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Trauer.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Vergifter.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Verzweiflung.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Waechter.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED waechtershell.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED waechtershell2.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED waechter_eyes.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Zophe.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Zorn.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name height in object of type TStarfarerWeapon
+11 May 2017 23:34:28 : LOADED Zorn_head.wpn
+11 May 2017 23:34:28 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+11 May 2017 23:34:28 : LOADED ship_data.csv
+11 May 2017 23:34:28 : LOADED wing_data.csv
+11 May 2017 23:34:28 : LOADED weapon_data.csv
+11 May 2017 23:34:28 : LOADED hull_mods.csv
+11 May 2017 23:34:43 : Activate Variant Editor
+11 May 2017 23:34:58 : Activate String Data Editor
+11 May 2017 23:34:58 : Editing Variant bge_arbiter_siege
+11 May 2017 23:35:10 : Activate Variant Editor
+11 May 2017 23:35:50 : Activate String Data Editor
+11 May 2017 23:35:50 : Editing Variant bge_flusskrebs_siege
+11 May 2017 23:36:19 : Activate Variant Editor
+11 May 2017 23:37:12 : Activate String Data Editor
+11 May 2017 23:37:12 : Editing Variant bge_koenig_siege
+11 May 2017 23:37:36 : Activate Variant Editor
+11 May 2017 23:37:52 : Activate String Data Editor
+11 May 2017 23:37:52 : Editing Variant bge_waechter_siege
+12 May 2017 11:38:23 : Activate Ship Center Editor
+12 May 2017 11:38:28 : Activate Shield Editor
+12 May 2017 11:38:31 : Activate Bounds Editor
+12 May 2017 11:39:04 : Activate Variant Editor
+12 May 2017 11:39:19 : Activate String Data Editor
+12 May 2017 11:39:19 : Editing Weaopn Slot 0 WS0001
+12 May 2017 11:39:34 : Activate String Data Editor
+12 May 2017 11:39:34 : Editing Weaopn Slot 1 WS0002
+12 May 2017 11:39:42 : Activate Build-in/Deco Weapon Editor
+12 May 2017 11:40:37 : Activate Variant Editor
+12 May 2017 11:40:56 : Activate String Data Editor
+12 May 2017 11:40:56 : Editing Weaopn Slot 0 WS0001
+12 May 2017 11:41:09 : Activate String Data Editor
+12 May 2017 11:41:09 : Editing Weaopn Slot 1 WS0002
+12 May 2017 11:41:42 : Activate Build-in/Deco Weapon Editor
+12 May 2017 11:42:23 : Activate Variant Editor
+12 May 2017 11:43:12 : Activate Variant Editor
+12 May 2017 11:44:31 : Activate Variant Editor
+12 May 2017 11:45:28 : Activate String Data Editor
+12 May 2017 11:45:28 : Editing Variant new_hull_variant
+12 May 2017 11:48:43 : Activate Wing CSV Editor
+12 May 2017 21:39:03 : Activate Weapon Editor
+12 May 2017 21:44:26 : Activate String Data Editor
+12 May 2017 21:44:26 : Editing Weapon atropos
+12 May 2017 21:45:13 : Activate String Data Editor
+12 May 2017 21:45:13 : Editing Weapon acidthrower
+12 May 2017 21:50:57 : Activate String Data Editor
+12 May 2017 21:50:57 : Editing Weapon acidthrower
+12 May 2017 21:53:44 : Activate String Data Editor
+12 May 2017 21:53:44 : Editing Weapon acidthrower
+12 May 2017 21:56:40 : Activate String Data Editor
+12 May 2017 21:56:40 : Editing Weapon acidthrower
+12 May 2017 22:07:30 : Activate Variant Editor
+12 May 2017 22:07:33 : Activate String Data Editor
+12 May 2017 22:07:33 : Editing Weaopn Slot 2 WS0003
+13 May 2017 08:34:15 : Activate Weapon Editor
+13 May 2017 08:34:58 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:35:17 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:36:26 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:37:08 : Activate String Data Editor
+13 May 2017 08:37:08 : Editing Weapon tentacle_left_small
+13 May 2017 08:40:50 : Activate Build-in/Deco Weapon Editor
+13 May 2017 08:40:58 : Activate Build-in/Deco Weapon Editor
+13 May 2017 08:42:10 : Activate Weapon Editor
+13 May 2017 08:42:23 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:44:44 : Activate Variant Editor
+13 May 2017 08:44:49 : Activate Build-in/Deco Weapon Editor
+13 May 2017 08:45:53 : Loading MOD Data: C:\Games\Starsector08a\mods\BGE/
+13 May 2017 08:45:53 : LOADED bge_arbiter.ship
+13 May 2017 08:45:53 : LOADED bge_brut.ship
+13 May 2017 08:45:53 : LOADED bge_flusskrebs.ship
+13 May 2017 08:45:53 : LOADED bge_gewalt.ship
+13 May 2017 08:45:53 : LOADED bge_hass.ship
+13 May 2017 08:45:53 : LOADED bge_hornisse.ship
+13 May 2017 08:45:53 : LOADED bge_koenig.ship
+13 May 2017 08:45:53 : LOADED bge_krieger.ship
+13 May 2017 08:45:53 : LOADED bge_mord_drone.ship
+13 May 2017 08:45:53 : LOADED bge_mut.ship
+13 May 2017 08:45:53 : LOADED bge_nymphe.ship
+13 May 2017 08:45:53 : LOADED bge_rache.ship
+13 May 2017 08:45:53 : LOADED bge_trauer.ship
+13 May 2017 08:45:53 : LOADED bge_vergifter.ship
+13 May 2017 08:45:53 : LOADED bge_verzweiflung.ship
+13 May 2017 08:45:53 : LOADED bge_waechter.ship
+13 May 2017 08:45:53 : LOADED bge_zophe.ship
+13 May 2017 08:45:53 : LOADED bge_zorn.ship
+13 May 2017 08:45:53 : LOADED bge_arbiter_siege.variant
+13 May 2017 08:45:53 : LOADED bge_arbiter_standard.variant
+13 May 2017 08:45:53 : LOADED bge_brut_drone.variant
+13 May 2017 08:45:53 : LOADED bge_flusskrebs_siege.variant
+13 May 2017 08:45:53 : LOADED bge_flusskrebs_standard.variant
+13 May 2017 08:45:53 : LOADED bge_gewalt_standard.variant
+13 May 2017 08:45:53 : LOADED bge_hass_standard.variant
+13 May 2017 08:45:53 : LOADED bge_koenig_siege.variant
+13 May 2017 08:45:53 : LOADED bge_koenig_standard.variant
+13 May 2017 08:45:53 : LOADED bge_krieger_standard.variant
+13 May 2017 08:45:53 : LOADED bge_mord_drone_standard.variant
+13 May 2017 08:45:53 : LOADED bge_mut_standard.variant
+13 May 2017 08:45:53 : LOADED bge_rache_standard.variant
+13 May 2017 08:45:53 : LOADED bge_trauer_standard.variant
+13 May 2017 08:45:53 : LOADED bge_vergifter_standard.variant
+13 May 2017 08:45:53 : LOADED bge_verzweiflung_standard.variant
+13 May 2017 08:45:53 : LOADED bge_waechter_siege.variant
+13 May 2017 08:45:53 : LOADED bge_waechter_standard.variant
+13 May 2017 08:45:53 : LOADED bge_zophe_siege.variant
+13 May 2017 08:45:53 : LOADED bge_zophe_standard.variant
+13 May 2017 08:45:53 : LOADED bge_zorn_standard.variant
+13 May 2017 08:45:53 : LOADED bge_hornisse_standard.variant
+13 May 2017 08:45:53 : LOADED bge_nymphe_standard.variant
+13 May 2017 08:45:53 : LOADED acidthrower.wpn
+13 May 2017 08:45:53 : LOADED adv_lrg_mand.wpn
+13 May 2017 08:45:53 : LOADED adv_lrg_scythe.wpn
+13 May 2017 08:45:53 : LOADED adv_med_scythe.wpn
+13 May 2017 08:45:53 : LOADED adv_sml_mand.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED antena_left.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED antena_right.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Arbiter.wpn
+13 May 2017 08:45:53 : LOADED bge_grappler.wpn
+13 May 2017 08:45:53 : LOADED bge_grappler_pd.wpn
+13 May 2017 08:45:53 : LOADED bge_mini_grappler.wpn
+13 May 2017 08:45:53 : LOADED bge_mord_grappler.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_left_huge.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_left_large.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_left_medium.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_left_small.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_left_tiny.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_right_huge.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_right_large.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_right_medium.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_right_small.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED dark_fin_right_tiny.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED deco_feeler_l.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED deco_feeler_r.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Flusskrebs.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Gewalt.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Koenig.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED koenigfinleft.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED koenigfinright.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED koenig_eyes.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED koenig_shell_left.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED koenig_shell_right.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Krieger.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED long_fin_left.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED long_fin_left2.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED long_fin_left_sml.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED long_fin_left_sml2.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED long_fin_right.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED long_fin_right2.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED long_fin_right_sml.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED long_fin_right_sml2.wpn
+13 May 2017 08:45:53 : LOADED lrg_mand.wpn
+13 May 2017 08:45:53 : LOADED lrg_pincer.wpn
+13 May 2017 08:45:53 : LOADED lrg_scythe.wpn
+13 May 2017 08:45:53 : LOADED med_pincer.wpn
+13 May 2017 08:45:53 : LOADED med_scythe.wpn
+13 May 2017 08:45:53 : LOADED projectile_weapon.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Rache.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Rache_head.wpn
+13 May 2017 08:45:53 : LOADED sml_mand.wpn
+13 May 2017 08:45:53 : LOADED spawner.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED stinger_left.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED stinger_right.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_gargantuan.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_gargantuan_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_huge.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_huge_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_huge_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_large.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_large_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_large_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_medium.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_medium_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_medium_barbed_short.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_medium_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_micro_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_small.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_small_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_small_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_tiny.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_tiny_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_left_tiny_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_gargantuan.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_gargantuan_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_huge.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_huge_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_huge_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_large.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_large_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_large_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_medium.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_medium_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_medium_barbed_short.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_medium_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_micro_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_small.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_small_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_small_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_tiny.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_tiny_barbed.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED tentacle_right_tiny_dark.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED trans_fin_left.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED trans_fin_left2.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED trans_fin_left_sml.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED trans_fin_left_sml2.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED trans_fin_right.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED trans_fin_right2.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED trans_fin_right_sml.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED trans_fin_right_sml2.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Trauer.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Vergifter.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Verzweiflung.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Waechter.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED waechtershell.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED waechtershell2.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED waechter_eyes.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Zophe.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Zorn.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name height in object of type TStarfarerWeapon
+13 May 2017 08:45:53 : LOADED Zorn_head.wpn
+13 May 2017 08:45:53 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+13 May 2017 08:45:53 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+13 May 2017 08:45:53 : [WARN] could not find field name contrailParticleFinalSizeMult in object of type TStarfarerCustomEngineStyleSpec
+13 May 2017 08:45:53 : [WARN] could not find field name type in object of type TStarfarerCustomEngineStyleSpec
+13 May 2017 08:45:53 : LOADED ship_data.csv
+13 May 2017 08:45:53 : LOADED wing_data.csv
+13 May 2017 08:45:53 : LOADED weapon_data.csv
+13 May 2017 08:45:53 : LOADED hull_mods.csv
+13 May 2017 08:46:04 : Activate Variant Editor
+13 May 2017 08:46:05 : Activate Ship CSV Editor
+13 May 2017 08:46:06 : Activate Variant Editor
+13 May 2017 08:46:09 : Activate Variant Editor
+13 May 2017 08:46:49 : Activate String Data Editor
+13 May 2017 08:46:49 : Editing Weaopn Slot 7 right_tentacle1
+13 May 2017 08:46:52 : Activate String Data Editor
+13 May 2017 08:46:52 : Editing Weaopn Slot 7 right_tentacle1
+13 May 2017 08:46:58 : Activate Variant Editor
+13 May 2017 08:47:02 : Activate String Data Editor
+13 May 2017 08:47:02 : Editing Variant bge_zorn_standard
+13 May 2017 08:47:23 : Activate Ship Center Editor
+13 May 2017 08:47:55 : Activate Variant Editor
+13 May 2017 08:48:08 : Activate Build-in/Deco Weapon Editor
+13 May 2017 08:49:49 : Activate Variant Editor
+13 May 2017 08:49:54 : Activate Build-in/Deco Weapon Editor
+13 May 2017 08:50:22 : Activate Variant Editor
+13 May 2017 08:51:51 : Activate String Data Editor
+13 May 2017 08:51:51 : Editing Weaopn Slot 23 WS0009
+13 May 2017 08:52:22 : Activate Ship Center Editor
